@@ -3,7 +3,7 @@
 				<div class="grid no-margin no-padding">
 					<div class="row">
 						<div class="cell-7 text-left">
-							<img src="/assets/media/images/konjure.svg" class="no-select" id="footer-image"/>
+							<img src="/assets/media/images/footer-logo.png" class="no-select" id="footer-image" alt="Konjure Logo"/>
 							<br>
 							<p><em>Striving to be the website builder of the blockchain, Konjure will provide the tools necessary to create and deploy your online project in a decentralized environment.</em></p>
 						</div>
@@ -62,7 +62,7 @@
 						</div>
 					</div>
 				</div>
-				<img src="/assets/media/images/dark-ghost.svg" class="no-select" id="footer-ghost"/>
+				<img src="/assets/media/images/dark-ghost.svg" class="no-select" id="footer-ghost" alt="Konjure Ghost"/>
 			</div>
 		</div>
 		
