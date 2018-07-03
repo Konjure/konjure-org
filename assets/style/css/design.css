@@ -36,6 +36,18 @@ h6 {
 	font-weight: normal;
 }
 
+p,
+ul,
+ol,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	margin: 0;
+}
+
 ::selection {
 	background: rgba(181,211,231,0.35);
 }
