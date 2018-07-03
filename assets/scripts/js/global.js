@@ -142,7 +142,7 @@ $(document).ready(function() {
 	} else if (window.location.href.indexOf("get-in-touch") > -1) {
 		$(".vertical-nav a:nth-of-type(5)").addClass("active");
 	} else if (window.location.href.indexOf("faqs") > -1) {
-		$(".vertical-nav a:nth-of-type(7)").addClass("active");
+		$(".vertical-nav a:nth-of-type(6)").addClass("active");
 	} else if (window.location.href.indexOf("overview") > -1) {
 		$(".vertical-nav a:nth-of-type(8)").addClass("active");
 	} else if (window.location.href.indexOf("decentralization") > -1) {
