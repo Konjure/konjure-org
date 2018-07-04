@@ -40,6 +40,13 @@
 		<script src="../../assets/scripts/js/global.js" type="text/javascript"></script>
 		<script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
 		<script src="../../assets/scripts/js/token.js" type="text/javascript"></script>
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121806430-1"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'UA-121806430-1');
+		</script>
 		
 	</head>
 	
