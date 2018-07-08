@@ -156,7 +156,7 @@
 							<div class="vertical-center-inner">
 								<h2 data-sr="enter right, and hustle 20px">Built on Cardano</h2>
 								<br><br>
-								<h3 data-sr="enter right, and hustle 20px">We share a vision for the future with the Cardano Foundation and feel confident building our token on their platform. Konjure will be one of the first token sales on Cardano, as our 2018 roadmap falls in line with theirs.</h3>
+								<h3 data-sr="enter right, and hustle 20px">We share a vision for the future with the Cardano Foundation and feel confident building our token on their platform. Konjure will be one of the first token sales on Cardano, with our presale launching Q4 2018.</h3>
 								<br><br>
 								<a href="/company/meet-the-team">
 									<div class="kbutton" hover="brighten" data-sr="enter right, and hustle 20px">
