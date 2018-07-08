@@ -34,7 +34,7 @@
 			<div class="vertical-nav-spacer"></div>
 			<h5>Get Started</h5>
 			<a href="/get-started/what-is-konjure">What is Konjure?</a>
-			<a href="/get-started/token">KONJ Token</a>
+			<a href="/get-started/token">KONJ Token Sale</a>
 			<a href="/get-started/roadmap">Roadmap</a>
 			<h5>Company</h5>
 			<a href="/company/meet-the-team">Meet the Team</a>

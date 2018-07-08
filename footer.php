@@ -11,7 +11,7 @@
 							<h5>Get Started</h5>
 							<br>
 							<p><a href="/get-started/what-is-konjure">What is Konjure?</a></p>
-							<p><a href="/get-started/token">KONJ Token</a></p>
+							<p><a href="/get-started/token">KONJ Token Sale</a></p>
 							<p><a href="/get-started/roadmap">Roadmap</a></p>
 						</div>
 						<div class="cell-3 text-right">
