@@ -209,7 +209,7 @@
 							<br><br>
 							<h3>Q4 2018</h3>
 							<br><br>
-							<p class="q-description">KONJ is created on the Cardano platform, and token presale begins.</p>
+							<p class="q-description">KONJ token is deployed and token presale begins.</p>
 							<div class="divider"></div>
 						</div>
 					</div>
