@@ -243,12 +243,12 @@ h6 {
 
 .vertical-nav {
 	height: 100%;
-	width: 305px;
+	width: 290px;
 	position: fixed;
 	top: 0;
 	right: 0;
 	background-color: #2C2B27;
-	margin-right: -312px;
+	margin-right: -297px;
 	z-index: 12;
 	overflow-y: scroll;
 	direction: rtl;
@@ -312,8 +312,8 @@ h6 {
 
 .vertical-nav-spacer {
 	height: 85px;
-	width: 305px;
-	margin-right: -305px;
+	width: 290px;
+	margin-right: -290px;
 	background-color: #2C2B27;
 	border-bottom: 1px solid #222;
 	position: fixed;
