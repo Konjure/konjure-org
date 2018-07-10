@@ -6,7 +6,7 @@
 
 	<head>
 	
-		<title>KONJ Token - Konjure</title>
+		<title>KONJ Token Sale - Konjure</title>
 		
 		<meta charset="UTF-8">
 		
@@ -127,13 +127,22 @@
 							<br>
 							<h2 class="text-center" data-sr="enter top, and hustle 20px"><div>Usage</div></h2>
 							<div class="usage">
-								<div class="pie" data-start="0" data-value="180" hover="brighten"></div>
-								<div class="pie" data-start="180" data-value="72" hover="brighten"></div>
-								<div class="pie" data-start="252" data-value="43" hover="brighten"></div>
-								<div class="pie" data-start="295" data-value="36" hover="brighten"></div>
-								<div class="pie" data-start="331" data-value="15" hover="brighten"></div>
-								<div class="pie" data-start="346" data-value="7" hover="brighten"></div>
-								<div class="pie" data-start="353" data-value="7" hover="brighten"></div>
+								<div class="pie" data-start="0" data-value="180"></div>
+								<div class="pie" data-start="180" data-value="72"></div>
+								<div class="pie" data-start="252" data-value="43"></div>
+								<div class="pie" data-start="295" data-value="36"></div>
+								<div class="pie" data-start="331" data-value="15"></div>
+								<div class="pie" data-start="346" data-value="7"></div>
+								<div class="pie" data-start="353" data-value="7"></div>
+								<div class="pie-hide text-center">
+									<h3>Token Sale<br><span>50%</span></h3>
+									<h3>Reserve Fund<br><span>20%</span></h3>
+									<h3>Founding Team<br><span>12%</span></h3>
+									<h3>Token Presale<br><span>10%</span></h3>
+									<h3>Private Presale<br><span>4%</span></h3>
+									<h3>Advisors<br><span>2%</span></h3>
+									<h3>Bounty<br><span>2%</span></h3>
+								</div>
 							</div>
 						</div>
 					</div>

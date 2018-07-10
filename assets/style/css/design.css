@@ -1820,6 +1820,12 @@ img.ghostpop {
 	display: inline-block;
 }
 
+.section.chart .cell-10 h3:hover:not(.text-right) {
+	color: #FFF;
+	padding-left: 10px;
+	cursor: pointer;
+}
+
 .color-one {
 	color: #782EA0;
 }
@@ -1866,10 +1872,54 @@ img.ghostpop {
 	-o-transform-origin: left center;
 	-webkit-transform-origin: left center;
 	transform-origin: left center;
+	border-left: 2px solid transparent;
 }
 
 .pie:first-child {
 	z-index: 1;
+}
+
+.pie:nth-child(2) {
+	border-left: 1.5px solid transparent;
+}
+
+.pie.pied {
+	-webkit-filter: brightness(150%);
+	-moz-filter: brightness(150%);
+	filter: brightness(150%);
+}
+
+.pie-hide {
+	height: 150px;
+	width: 150px;
+	max-height: none !important;
+	max-width: none !important;
+	position: absolute;
+	z-index: 5;
+	background-color: #2C2B27;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+	overflow: hidden;
+	margin-left: 75px;
+	margin-top: 75px;
+}
+
+.pie-hide h3 {
+	width: 150px;
+	position: absolute;
+	opacity: 0;
+	visibility: hidden;
+	left: 50%;
+	top: 55px;
+	-ms-transform: translateX(-50%);
+	-webkit-transform: translateX(-50%);
+	transform: translateX(-50%);
+}
+
+.pie-hide h3.pied {
+	opacity: 1;
+	visibility: visible;
 }
 
 .pie:BEFORE {
@@ -1877,27 +1927,18 @@ img.ghostpop {
 	width: 150px;
 	content: "";
 	position: absolute;
-	left: -150px;
-	border-radius: 150px 0 0 150px;
+	left: -152px;
+	border-radius: 152px 0 0 152px;
 	-moz-transform-origin: right center;
 	-ms-transform-origin: right center;
 	-o-transform-origin: right center;
 	-webkit-transform-origin: right center;
 	transform-origin: right center;
-	
 }
 
-.pie.big:BEFORE {
-	left: 0px;
-}
-
-.pie.big:AFTER {
-	height: 300px;
-	width: 150px;
-	content: "";
-	position: absolute;
-	left: 100px;
-	border-radius: 0 100px 100px 0;
+.pie:nth-child(2):BEFORE {
+	left: -151.5px;
+	border-radius: 151.5px 0 0 151.5px;
 }
 
 .pie:nth-of-type(1):BEFORE,
@@ -2987,14 +3028,24 @@ img.ghostpop {
 	.usage {
 		width: 200px;
 	}
+	.pie {
+		border-left: 1px solid transparent;
+	}
 	.pie,
 	.pie:BEFORE {
 		height: 200px;
 		width: 100px;
 	}
-	.pie:BEFORE {
-		left: -100px;
-		border-radius: 100px 0 0 100px;
+	.pie:BEFORE, .pie:nth-child(2):BEFORE {
+		left: -101px;
+		border-radius: 101px 0 0 101px;
+	}
+	.pie-hide {
+		margin-left: 25px;
+		margin-top: 25px;
+	}
+	.pie:nth-child(2) {
+		border-left: 1px solid transparent;
 	}
 	.token-outer img {
 		margin-top: 50px;

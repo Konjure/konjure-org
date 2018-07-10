@@ -121,4 +121,46 @@ $(document).ready(function() {
 		$("html, body").animate({scrollTop: $(".section.chart").offset().top}, 1000);
 	});
 	
+	$(".pie:nth-child(1), .section.chart .cell-10 h3:nth-of-type(1)").hover(function() {
+		$(".pie-hide h3:nth-child(1), .pie:nth-child(1)").addClass("pied");
+	}, function() {
+		$(".pie-hide h3:nth-child(1), .pie:nth-child(1)").removeClass("pied");
+	});
+	
+	$(".pie:nth-child(2), .section.chart .cell-10 h3:nth-of-type(3)").hover(function() {
+		$(".pie-hide h3:nth-child(2), .pie:nth-child(2)").addClass("pied");
+	}, function() {
+		$(".pie-hide h3:nth-child(2), .pie:nth-child(2)").removeClass("pied");
+	});
+	
+	$(".pie:nth-child(3), .section.chart .cell-10 h3:nth-of-type(5)").hover(function() {
+		$(".pie-hide h3:nth-child(3), .pie:nth-child(3)").addClass("pied");
+	}, function() {
+		$(".pie-hide h3:nth-child(3), .pie:nth-child(3)").removeClass("pied");
+	});
+	
+	$(".pie:nth-child(4), .section.chart .cell-10 h3:nth-of-type(7)").hover(function() {
+		$(".pie-hide h3:nth-child(4), .pie:nth-child(4)").addClass("pied");
+	}, function() {
+		$(".pie-hide h3:nth-child(4), .pie:nth-child(4)").removeClass("pied");
+	});
+	
+	$(".pie:nth-child(5), .section.chart .cell-10 h3:nth-of-type(9)").hover(function() {
+		$(".pie-hide h3:nth-child(5), .pie:nth-child(5)").addClass("pied");
+	}, function() {
+		$(".pie-hide h3:nth-child(5), .pie:nth-child(5)").removeClass("pied");
+	});
+	
+	$(".pie:nth-child(6), .section.chart .cell-10 h3:nth-of-type(11)").hover(function() {
+		$(".pie-hide h3:nth-child(6), .pie:nth-child(6)").addClass("pied");
+	}, function() {
+		$(".pie-hide h3:nth-child(6), .pie:nth-child(6)").removeClass("pied");
+	});
+	
+	$(".pie:nth-child(7), .section.chart .cell-10 h3:nth-of-type(13)").hover(function() {
+		$(".pie-hide h3:nth-child(7), .pie:nth-child(7)").addClass("pied");
+	}, function() {
+		$(".pie-hide h3:nth-child(7), .pie:nth-child(7)").removeClass("pied");
+	});
+	
 });
