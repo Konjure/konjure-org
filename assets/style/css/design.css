@@ -2855,6 +2855,12 @@ img.ghostpop {
 		-webkit-transform: scale(1.25, 1.25);
 		transform: scale(1.25, 1.25);
 	}
+	#parallax-scene img:first-child {
+		margin-bottom: -50px;
+	}
+	#parallax-scene img:last-child {
+		margin-top: 0;
+	}
 }
 
 @media screen and (max-width: 1200px) {
