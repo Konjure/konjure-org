@@ -1717,7 +1717,7 @@ img.ghostpop {
 	}
 }
 
-.section.token i {
+.section.token i, .section.roadmap i {
 	position: absolute;
 	bottom: 0px;
 	left: 50%;
@@ -1731,7 +1731,7 @@ img.ghostpop {
 	animation: scroll 2.3s linear infinite;
 }
 
-.section.token i:hover {
+.section.token i:hover, .section.roadmap i:hover {
 	color: #AAA;
 	cursor: pointer;
 }

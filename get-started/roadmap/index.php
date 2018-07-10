@@ -88,6 +88,7 @@
 					</div>
 				</div>
 			</div>
+			<i class="fa fa-angle-double-down"></i>
 		</div>
 		
 		<div class="section map" id="header-trigger">

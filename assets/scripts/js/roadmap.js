@@ -8,7 +8,7 @@ $(document).ready(function() {
 	
 	// Scroll to roadmap
 	
-	$("#roadmap-icon").click(function() {
+	$("#roadmap-icon, .section.roadmap i").click(function() {
 		$("html, body").animate({scrollTop: $(".section.map").offset().top}, 1000);
 	});
 	
