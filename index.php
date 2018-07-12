@@ -39,6 +39,14 @@
 		<script src="assets/scripts/js/konjure.min.js" type="text/javascript"></script>
 		<script src="assets/scripts/js/global.js" type="text/javascript"></script>
 		<script src="assets/scripts/js/landing.js" type="text/javascript"></script>
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121806430-1"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'UA-121806430-1');
+		</script>
+
 		
 	</head>
 	
@@ -127,7 +135,7 @@
 							<div class="vertical-center-inner">
 								<h2 data-sr="enter left, and hustle 20px">A token for the new Internet</h2>
 								<br><br>
-								<h3 data-sr="enter left, and hustle 20px">Generate, launch, and maintain your website with the power of KONJ, our utility token built on Cardano. Shop within our ecosystem, purchase plugins from developers, and much more.</h3>
+								<h3 data-sr="enter left, and hustle 20px">Generate, launch, and maintain your website with the power of KONJ, our versatile utility token. Shop within our ecosystem, purchase plugins from developers, and much more.</h3>
 								<br><br>
 								<a href="/get-started/token">
 									<div class="kbutton" hover="brighten" data-sr="enter left, and hustle 20px">
