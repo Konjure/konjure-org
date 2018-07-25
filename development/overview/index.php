@@ -198,9 +198,9 @@
 				<br>
 				<div class="grid no-padding">
 					<div class="cell">
-						<h2 data-sr="enter top, and hustle 20px">Konjure UI</h2>
+						<h2 data-sr="enter top, and hustle 20px">Konjure Framework</h2>
 						<br>
-						<h3 data-sr="enter top, and hustle 20px">A user interface kit that acts as the framework for Konjure websites</h3>
+						<h3 data-sr="enter top, and hustle 20px">The backbone of Konjure website design, including Konjure UI</h3>
 						<br>
 						<div class="kprogress ui" data-sr="enter top, and hustle 20px">
 							<div class="blink"></div>
@@ -208,9 +208,9 @@
 						<h5>25%</h5>
 					</div>
 					<div class="cell">
-						<h2 data-sr="enter top, and hustle 20px">Konjure WEB</h2>
+						<h2 data-sr="enter top, and hustle 20px">Konjure Ecosystem</h2>
 						<br>
-						<h3 data-sr="enter top, and hustle 20px">A website builder that deploys sites on a peer-to-peer network</h3>
+						<h3 data-sr="enter top, and hustle 20px">A layer on top of the Decentralized Web containing all Konjure sites</h3>
 						<br>
 						<div class="kprogress none" data-sr="enter top, and hustle 20px">
 							<div class="blink"></div>
@@ -218,19 +218,9 @@
 						<h5>0%</h5>
 					</div>
 					<div class="cell">
-						<h2 data-sr="enter top, and hustle 20px">Konjure GEN</h2>
+						<h2 data-sr="enter top, and hustle 20px">Konjure Gateway</h2>
 						<br>
-						<h3 data-sr="enter top, and hustle 20px">Procedural generation of website design using Konjure UI</h3>
-						<br>
-						<div class="kprogress gen" data-sr="enter top, and hustle 20px">
-							<div class="blink"></div>
-						</div>
-						<h5>5%</h5>
-					</div>
-					<div class="cell">
-						<h2 data-sr="enter top, and hustle 20px">Konjure AI</h2>
-						<br>
-						<h3 data-sr="enter top, and hustle 20px">Machine learning technology integrated into the website builder</h3>
+						<h3 data-sr="enter top, and hustle 20px">A website builder with our GEN tech, AI, and customer support</h3>
 						<br>
 						<div class="kprogress none" data-sr="enter top, and hustle 20px">
 							<div class="blink"></div>
