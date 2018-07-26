@@ -91,7 +91,7 @@
 							<div class="vertical-center-inner">
 								<h2 data-sr="enter left, and hustle 20px">An open source project</h2>
 								<br><br>
-								<h3 data-sr="enter left, and hustle 20px">In the spirit of a free and open Internet, the entire Konjure project is open source on Github. Feel free to contribute or simply learn about how Konjure functions behind the scenes.</h3>
+								<h3 data-sr="enter left, and hustle 20px">In the spirit of a free and open Internet, the entire Konjure ecosystem is open source on Github. Feel free to contribute or simply learn about how Konjure functions behind the scenes.</h3>
 								<br><br>
 								<a href="https://github.com/konjure" target="_blank">
 									<div class="kbutton" hover="brighten" data-sr="enter left, and hustle 20px">
