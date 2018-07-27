@@ -92,7 +92,7 @@
 								<div class="vertical-center-inner">
 									<h3 data-sr="enter left, and hustle 20px">When the Internet first began, it was decentralized. This was the original goal, ensuring it could survive unexpected disasters and partial system failures. Following developments such as the World Wide Web, companies started to create and host websites on their own machines.</h3>
 									<br>
-									<h3 data-sr="enter left, and hustle 20px">As with any growing platform, along came commercialization. ISPs, cloud computing, and social media platforms sent us into what is now known as Web 2.0. A centralized web where a handful of big players own our data and control everything we see. This is not how it was intended to be.</h3>
+									<h3 data-sr="enter left, and hustle 20px">As with any growing platform, along came commercialization. Cloud computing, social networking, and a few other key ingredients sent us into what is now known as Web 2.0. A centralized web where a handful of big players own our data and control everything we see. This is not how it was intended to be.</h3>
 								</div>
 							</div>
 						</div>
@@ -152,7 +152,7 @@
 						</div>
 						<div class="cell">
 							<h2 data-sr="enter top, and hustle 20px">Open Source</h2>
-							<h3 data-sr="enter top, and hustle 20px">The entire Konjure project is open source on Github. We encourage community involvement. Konjure is made for the world, not just us.</h3>
+							<h3 data-sr="enter top, and hustle 20px">The entire Konjure ecosystem is open source on Github. We encourage community involvement. Konjure is made for the world, not just us.</h3>
 						</div>
 					</div>
 				</div>
