@@ -111,7 +111,7 @@
 							<div class="vertical-center-inner">
 								<h2 data-sr="enter right, and hustle 20px">Build your decentralized website</h2>
 								<br><br>
-								<h3 data-sr="enter right, and hustle 20px">The new decentralized web is coming, and it's not just for tech apps. We're developing Konjure, a platform for shops, blogs, and communities to operate on a truly free and open Internet.</h3>
+								<h3 data-sr="enter right, and hustle 20px">The new Decentralized Web is coming, and it's not just for tech apps. We're developing Konjure, a platform for shops, blogs, and communities to operate on a truly free and open Internet.</h3>
 								<br><br>
 								<a href="/get-started/what-is-konjure">
 									<div class="kbutton" hover="brighten" data-sr="enter right, and hustle 20px">
@@ -133,7 +133,7 @@
 					<div class="cell-8">
 						<div class="vertical-center-outer">
 							<div class="vertical-center-inner">
-								<h2 data-sr="enter left, and hustle 20px">A token for the new Internet</h2>
+								<h2 data-sr="enter left, and hustle 20px">A token for the new Web</h2>
 								<br><br>
 								<h3 data-sr="enter left, and hustle 20px">Generate, launch, and maintain your website with the power of KONJ, our versatile utility token. Shop within our ecosystem, purchase plugins from developers, and much more.</h3>
 								<br><br>

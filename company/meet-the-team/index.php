@@ -68,7 +68,7 @@
 				<h2 class="headline" data-sr="enter top, and hustle 20px">Core Startup Team</h2>
 				<div class="grid no-padding">
 					<div class="row">
-						<h3 data-sr="enter top, and hustle 20px">We understand the value a small, strong team can have in a startup. Konjure is a group of five remarkable individuals with expertise in web development, blockchain, and finances. As we progress on our journey to create the world's first decentralized website builder, we'll be actively expanding our team to keep up with our ambitious goals.</h3>
+						<h3 data-sr="enter top, and hustle 20px">We understand the value a small, strong team can have in a startup. Konjure is a group of five remarkable individuals with expertise in web development, blockchain, and finances. As we progress on our journey to create the world's first website builder for the Decentralized Web, we'll be actively expanding our team to keep up with our ambitious goals.</h3>
 						<br>
 					</div>
 					<div class="row">
@@ -199,7 +199,7 @@
 						<div class="cell">
 							<h2 data-sr="enter top, and hustle 20px">Open Source</h2>
 							<br>
-							<h3 data-sr="enter top, and hustle 20px">As an open source project, all developers are welcome to contribute in many different ways. Whether you're a website designer or a blockchain developer, there's something for you to work on.</h3>
+							<h3 data-sr="enter top, and hustle 20px">As an open source project, all developers are welcome to contribute in many different ways. If you're a web or blockchain developer, there's something for you to work on.</h3>
 							<br>
 							<h3 data-sr="enter top, and hustle 20px"><a href="https://github.com/konjure" target="_blank">Fork us on Github <i class="fa fa-angle-right"></i></a></h3>
 						</div>
