@@ -511,6 +511,10 @@ h6 {
 	position: relative;
 }
 
+.splash .left {
+	z-index: 1;
+}
+
 .right img {
 	position: absolute;
 }
