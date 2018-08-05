@@ -220,7 +220,7 @@
 					<div class="cell">
 						<h2 data-sr="enter top, and hustle 20px">Konjure Gateway</h2>
 						<br>
-						<h3 data-sr="enter top, and hustle 20px">A website builder with our GEN tech, AI, and customer support</h3>
+						<h3 data-sr="enter top, and hustle 20px">A feature-packed website builder with our GEN tech, AI, and more</h3>
 						<br>
 						<div class="kprogress none" data-sr="enter top, and hustle 20px">
 							<div class="blink"></div>

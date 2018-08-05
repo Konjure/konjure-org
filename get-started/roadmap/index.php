@@ -102,7 +102,7 @@
 							<div class="roadmap-vline"></div>
 							<h3>Q1 <i class="fa fa-check-circle"></i></h3>
 							<br>
-							<h3><span>Brainstorming</span></h3>
+							<h3><span>Discovering the Problem</span></h3>
 						</div>
 						<div class="cell-3 no-select" data-sr="enter right, and hustle 20px">
 							<div class="roadmap-vline"></div>
@@ -300,7 +300,7 @@
 							<div class="roadmap-vline"></div>
 							<h3>Q4</h3>
 							<br>
-							<h3><span>Website Builder Public Beta</span></h3>
+							<h3><span>Konjure 1.0 Release</span></h3>
 						</div>
 					</div>
 					<div class="row active">
@@ -330,7 +330,7 @@
 							<br><br>
 							<h3>Q4 2020</h3>
 							<br><br>
-							<p class="q-description">The Konjure website builder opens for public beta testing.</p>
+							<p class="q-description">The Konjure website builder official releases at version 1.0.</p>
 							<div class="divider"></div>
 						</div>
 					</div>
