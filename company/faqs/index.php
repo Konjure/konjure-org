@@ -82,7 +82,7 @@
 							<h3 class="no-select">What is the KONJ token?</h3>
 							<div class="expander-content">
 								<br>
-								<p>KONJ is our utility token for use inside the Konjure ecosystem. Users can browse shops, purchase plugins on our Bazaar, unlock new features for their website, and much more.</p>
+								<p>KONJ is our utility token for use inside the Konjure ecosystem. Users can browse shops, purchase plugins on our Bazaar, host their own website, and much more.</p>
 							</div>
 						</div>
 						<div class="divider" data-sr="enter left, and hustle 20px"></div>
@@ -91,7 +91,7 @@
 							<h3 class="no-select">How can I obtain KONJ?</h3>
 							<div class="expander-content">
 								<br>
-								<p>After our primary token sale in Q1 2019, KONJ will be listed on various exchanges and available to purchase. After our public beta launches in 2020, users will be able to purchase KONJ directly from our platform.</p>
+								<p>After our primary token sale in Q1 2019, KONJ will be available to purchase on the open market. Inside of our dApp, users will be able to run a node and get rewarded with KONJ tokens, giving them the opportunity to host their website and purchase plugins for free.</p>
 							</div>
 						</div>
 						<div class="divider" data-sr="enter left, and hustle 20px"></div>
@@ -100,7 +100,7 @@
 							<h3 class="no-select">What sets you apart from other website builders?</h3>
 							<div class="expander-content">
 								<br>
-								<p>By taking advantage of the various new decentralized web projects being funded, we will deploy websites directly onto a peer-to-peer network in just a few clicks. Compared to centralized hosting, websites will be cheaper, faster, censorship-resistant, and more secure. Striving to be a truly decentralized project in the future, not even Konjure will have the ability to modify your website. Instead, we will have community-based systems in place such as flagging websites.</p>
+								<p>By taking advantage of the various new Decentralized Web projects being funded, we will deploy websites directly onto our IPFS network in just a few clicks. Compared to centralized hosting, websites will be cheaper, faster, censorship-resistant, and more secure. Striving to be a truly decentralized project in the future, not even Konjure will have the ability to modify your website. Instead, we will have community-based systems in place such as flagging websites.</p>
 								<br>
 								<p>The second primary innovation we're making is our website generation technology. We're throwing out themes and templates, and replacing them with procedurally generated designs based on your input. This way, you will have a completely unique website to start from that has never been seen before.</p>
 							</div>
@@ -158,7 +158,7 @@
 							<h3 class="no-select">How many KONJ tokens are there?</h3>
 							<div class="expander-content">
 								<br>
-								<p>On launch, <strong>750,000,000</strong> KONJ tokens were created, and as our max supply, there will never be more than that amount. KONJ cannot be mined.</p>
+								<p>On launch, <strong>750,000,000</strong> KONJ tokens were created. KONJ cannot be mined.</p>
 							</div>
 						</div>
 						<div class="divider" data-sr="enter left, and hustle 20px"></div>
@@ -167,7 +167,7 @@
 							<h3 class="no-select">Which decentralized network will you use?</h3>
 							<div class="expander-content">
 								<br>
-								<p>We will be announcing our partnership in Q4 2019.</p>
+								<p>Konjure is working with IPFS for static website content and delivery, and Cardano for our dApp, token, and computing.</p>
 							</div>
 						</div>
 						<div class="divider" data-sr="enter left, and hustle 20px"></div>

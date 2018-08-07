@@ -240,7 +240,7 @@
 							<div class="roadmap-vline"></div>
 							<h3>Q4</h3>
 							<br>
-							<h3><span>Decentralized Partnership</span></h3>
+							<h3><span>Konjure dApp Test Network</span></h3>
 						</div>
 					</div>
 					<div class="row active">
@@ -249,7 +249,7 @@
 							<br><br>
 							<h3>Q1 2019</h3>
 							<br><br>
-							<p class="q-description">Primary token sale takes place. First exchanges list KONJ.</p>
+							<p class="q-description">Primary token sale takes place and tokens are dispursed to contributors.</p>
 							<div class="divider"></div>
 						</div>
 						<div class="q-cover">
@@ -270,7 +270,7 @@
 							<br><br>
 							<h3>Q4 2019</h3>
 							<br><br>
-							<p class="q-description">Partnership for decentralized peer-to-peer hosting is announced.</p>
+							<p class="q-description">The Konjure dApp is converted to run on the Cardano platform and our test network opens.</p>
 							<div class="divider"></div>
 						</div>
 					</div>
@@ -282,19 +282,19 @@
 							<div class="roadmap-vline"></div>
 							<h3>Q1</h3>
 							<br>
-							<h3><span>Konjure Test Network</span></h3>
+							<h3><span>Website Builder Closed Alpha</span></h3>
 						</div>
 						<div class="cell-3 no-select" data-sr="enter right, and hustle 20px">
 							<div class="roadmap-vline"></div>
 							<h3>Q2</h3>
 							<br>
-							<h3><span>Website Builder Closed Alpha</span></h3>
+							<h3><span>Requested Features</span></h3>
 						</div>
 						<div class="cell-3 no-select" data-sr="enter right, and hustle 20px">
 							<div class="roadmap-vline"></div>
 							<h3>Q3</h3>
 							<br>
-							<h3><span>Development & Partnerships</span></h3>
+							<h3><span>Website Builder Public Beta</span></h3>
 						</div>
 						<div class="cell-3 no-select" data-sr="enter right, and hustle 20px">
 							<div class="roadmap-vline"></div>
@@ -309,21 +309,21 @@
 							<br><br>
 							<h3>Q1 2020</h3>
 							<br><br>
-							<p class="q-description">Konjure begins testing on decentralized hosting layer.</p>
+							<p class="q-description">Whitelisted users gain access to our website builder for alpha testing.</p>
 							<div class="divider"></div>
 						</div>
 						<div class="q-cover">
 							<br><br>
 							<h3>Q2 2020</h3>
 							<br><br>
-							<p class="q-description">Private testing of Konjure's website builder functionality begins.</p>
+							<p class="q-description">Most popular community-voted features are developed into the Konjure platform.</p>
 							<div class="divider"></div>
 						</div>
 						<div class="q-cover">
 							<br><br>
 							<h3>Q3 2020</h3>
 							<br><br>
-							<p class="q-description">Most requested features are developed and more partnerships are announced.</p>
+							<p class="q-description">The doors to the Konjure gateway and website builder open up, allowing all users to test it for bugs.</p>
 							<div class="divider"></div>
 						</div>
 						<div class="q-cover">

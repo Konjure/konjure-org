@@ -13,7 +13,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		
 		<meta name="description" content="Konjure is in development to become the website builder of the blockchain. Explore the stages of our project."/>
-		<meta name="keywords" content="konjure, website builder, development, overview, innovations, machine learning, konjure ui, platform, generation, stages"/>
+		<meta name="keywords" content="konjure, website builder, development, overview, innovations, machine learning, konjure ui, platform, generation, stages, ipfs"/>
 		
 		<meta name="twitter:card" content="summary_large_image"/>
 		<meta name="twitter:site" content="@KonjureOrg"/>
@@ -210,7 +210,7 @@
 					<div class="cell">
 						<h2 data-sr="enter top, and hustle 20px">Konjure Ecosystem</h2>
 						<br>
-						<h3 data-sr="enter top, and hustle 20px">A layer on top of the Decentralized Web containing all Konjure sites</h3>
+						<h3 data-sr="enter top, and hustle 20px">A layer on top of IPFS containing all Konjure nodes and sites</h3>
 						<br>
 						<div class="kprogress none" data-sr="enter top, and hustle 20px">
 							<div class="blink"></div>
@@ -246,7 +246,7 @@
 							<div class="vertical-center-inner">
 								<h2 data-sr="enter left, and hustle 20px">Decentralized Network</h2>
 								<br><br>
-								<h3 data-sr="enter left, and hustle 20px">Konjure websites will automatically be deployed and hosted on a peer-to-peer network. You, and only you, own your data. The way it should be.</h3>
+								<h3 data-sr="enter left, and hustle 20px">Konjure websites will automatically be deployed and hosted on our IPFS network. Users can set up nodes to help run our ecosystem, and in return they will receive KONJ tokens to use throughout the platform.</h3>
 								<br><br>
 								<a href="/development/decentralization">
 									<div class="kbutton" hover="brighten" data-sr="enter left, and hustle 20px">

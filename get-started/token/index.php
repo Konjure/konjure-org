@@ -100,7 +100,7 @@
 					<div class="row">
 						<div class="cell-10">
 							<br>
-							<h2 class="text-center" data-sr="enter top, and hustle 20px"><div>Max Supply: 750,000,000 KONJ</div></h2>
+							<h2 class="text-center" data-sr="enter top, and hustle 20px"><div>Total Supply: 750,000,000 KONJ*</div></h2>
 							<br>
 							<h3 data-sr="enter left, and hustle 20px"><i class="fa fa-circle color-one"></i> 50% &middot; Token Sale</h3>
 							<h3 class="text-right" data-sr="enter right, and hustle 20px">375,000,000 KONJ</h3>
@@ -147,6 +147,8 @@
 						</div>
 					</div>
 				</div>
+				<br><br>
+				<h6 class="text-center">*Tokens that are not sold during sale periods will be burned.</h6>
 			</div>
 		</div>
 		
@@ -186,16 +188,16 @@
 				<div class="grid no-padding">
 					<div class="row">
 						<div class="cell">
-							<i class="fa fa-columns" data-sr="enter top, and hustle 20px"></i>
-							<h2 data-sr="enter top, and hustle 20px">Website Builder</h2>
+							<i class="fa fa-globe" data-sr="enter top, and hustle 20px"></i>
+							<h2 data-sr="enter top, and hustle 20px">Node Reward</h2>
 							<br>
-							<h3 data-sr="enter top, and hustle 20px">Anyone can create a unique website with Konjure. Explore shops created by our community or build your own project, all with the power of KONJ.</h3>
+							<h3 data-sr="enter top, and hustle 20px">Inside the Konjure dApp, users will have the option to run a node and be rewarded with KONJ tokens. They can then use these tokens throughout our platform.</h3>
 						</div>
 						<div class="cell">
-							<i class="fa fa-cog" data-sr="enter top, and hustle 20px"></i>
+							<i class="fa fa-database" data-sr="enter top, and hustle 20px"></i>
 							<h2 data-sr="enter top, and hustle 20px">Platform-wide Currency</h2>
 							<br>
-							<h3 data-sr="enter top, and hustle 20px">As the backbone of our platform, all transactions that run through our network are converted into KONJ tokens, a currency for use throughout our ecosystem.</h3>
+							<h3 data-sr="enter top, and hustle 20px">All currencies coming into the network are converted into KONJ in a one-way exchange, providing site owners with one easy token to use or withdraw.</h3>
 						</div>
 						<div class="cell">
 							<i class="fa fa-code" data-sr="enter top, and hustle 20px"></i>
@@ -205,7 +207,7 @@
 						</div>
 					</div>
 				</div>
-				<h4 data-sr="enter top, and hustle 20px">With many more...</h4>
+				<h4 data-sr="enter top, and hustle 20px">With more to come...</h4>
 			</div>
 		</div>
 		

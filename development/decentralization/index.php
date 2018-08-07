@@ -126,9 +126,9 @@
 					<div class="cell-12 text-right">
 						<div class="vertical-center-outer">
 							<div class="vertical-center-inner">
-								<h2 data-sr="enter right, and hustle 20px">Peer-to-peer network</h2>
+								<h2 data-sr="enter right, and hustle 20px">Peer-to-peer IPFS network</h2>
 								<br><br>
-								<h3 data-sr="enter right, and hustle 20px">As opposed to traditional web hosting, Konjure will take advantage of peer-to-peer networks. This ensures decentralized hosting for each website on our ecosystem, offering a cheaper, faster, and more secure solution overall.</h3>
+								<h3 data-sr="enter right, and hustle 20px">As opposed to traditional web hosting, Konjure will be working with IPFS. This ensures decentralized hosting for each site on our platform, offering a cheaper, faster, and more secure solution overall. Inside the Konjure dApp, users will have the option to run a node on our network, earning KONJ tokens.</h3>
 								<br><br>
 								<a href="/get-started/what-is-konjure">
 									<div class="kbutton" hover="brighten" data-sr="enter right, and hustle 20px">
