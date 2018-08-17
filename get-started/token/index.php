@@ -218,9 +218,9 @@
 					<div class="cell-8">
 						<div class="vertical-center-outer">
 							<div class="vertical-center-inner">
-								<h2 data-sr="enter left, and hustle 20px">Presale Coming Q4 2018</h2>
+								<h2 data-sr="enter left, and hustle 20px">Token Sale Coming Q1 2019</h2>
 								<br><br>
-								<h3 data-sr="enter left, and hustle 20px">Stay tuned for updates on the official launch of the KONJ Presale later this year. Our tokens will be available to purchase starting at <em>$0.035</em> each.</h3>
+								<h3 data-sr="enter left, and hustle 20px">Stay tuned for updates on the official launch of our public token sale. KONJ will be available to purchase at <em>$0.05</em> each.</h3>
 								<br><br>
 								<a href="/get-started/roadmap">
 									<div class="kbutton" hover="brighten" data-sr="enter left, and hustle 20px">

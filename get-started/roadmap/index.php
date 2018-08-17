@@ -67,7 +67,7 @@
 								<br><br>
 								<h3 data-sr="enter left, and hustle 20px">Konjure is a complex project with big goals and many moving parts. The following roadmap gives a broad overview of the progress we'll be making in the next few years.</h3>
 								<br>
-								<h3 data-sr="enter left, and hustle 20px">Aiming to be a truly decentralized platform, we're open source and encourage involvement from our community. Eventually, the Konjure network will be maintained and operated by all those who use it.</h3>
+								<h3 data-sr="enter left, and hustle 20px">Aiming to be a truly decentralized platform, we're open source and encourage involvement from our community. Eventually, the Konjure platform will be maintained and operated by all those who use it.</h3>
 							</div>
 						</div>
 					</div>
@@ -180,7 +180,7 @@
 							<div class="roadmap-vline"></div>
 							<h3>Q4</h3>
 							<br>
-							<h3><span>Token Presale Begins</span></h3>
+							<h3><span>Konjure Prototype/MVP</span></h3>
 						</div>
 					</div>
 					<div class="row active">
@@ -203,14 +203,14 @@
 							<br><br>
 							<h3 class="active">Q3 2018</h3>
 							<br><br>
-							<p class="q-description">Konjure website launches and private presale begins. Initial contributors and advisors are brought on board. Whitepaper is finished.</p>
+							<p class="q-description">Konjure website launches and private presale begins. Initial contributors and advisors are brought on board. Whitepaper is released.</p>
 							<div class="divider"></div>
 						</div>
 						<div class="q-cover">
 							<br><br>
 							<h3>Q4 2018</h3>
 							<br><br>
-							<p class="q-description">KONJ token is deployed and token presale begins.</p>
+							<p class="q-description">Our prototype application is launched, allowing users to run nodes and upload websites to the Decentralized Web.</p>
 							<div class="divider"></div>
 						</div>
 					</div>
