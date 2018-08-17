@@ -84,11 +84,11 @@
 				<div class="grid no-padding">
 					<div class="row">
 						<div class="cell" data-sr="enter left, and hustle 20px">
-							<h2>Private Price <div>Q3 2018</div></h2>
+							<h2>Seed Price <div>Q3 2018</div></h2>
 							<h3><div>$0.02</div> per token</h3>
 						</div>
 						<div class="cell" data-sr="enter left, and hustle 20px">
-							<h2>Presale Price <div>Q4 2018</div></h2>
+							<h2>Private Price <div>Q4 2018</div></h2>
 							<h3><div>$0.035</div> per token</h3>
 						</div>
 						<div class="cell" data-sr="enter left, and hustle 20px">
@@ -111,10 +111,10 @@
 							<h3 data-sr="enter left, and hustle 20px"><i class="fa fa-circle color-three"></i> 12% &middot; Founding Team</h3>
 							<h3 class="text-right" data-sr="enter right, and hustle 20px">90,000,000 KONJ</h3>
 							<div class="divider"></div>
-							<h3 data-sr="enter left, and hustle 20px"><i class="fa fa-circle color-four"></i> 10% &middot; Token Presale</h3>
+							<h3 data-sr="enter left, and hustle 20px"><i class="fa fa-circle color-four"></i> 10% &middot; Private Presale</h3>
 							<h3 class="text-right" data-sr="enter right, and hustle 20px">75,000,000 KONJ</h3>
 							<div class="divider"></div>
-							<h3 data-sr="enter left, and hustle 20px"><i class="fa fa-circle color-five"></i> 4% &middot; Private Presale</h3>
+							<h3 data-sr="enter left, and hustle 20px"><i class="fa fa-circle color-five"></i> 4% &middot; Seed Presale</h3>
 							<h3 class="text-right" data-sr="enter right, and hustle 20px">30,000,000 KONJ</h3>
 							<div class="divider"></div>
 							<h3 data-sr="enter left, and hustle 20px"><i class="fa fa-circle color-six"></i> 2% &middot; Advisors</h3>
@@ -138,8 +138,8 @@
 									<h3>Token Sale<br><span>50%</span></h3>
 									<h3>Reserve Fund<br><span>20%</span></h3>
 									<h3>Founding Team<br><span>12%</span></h3>
-									<h3>Token Presale<br><span>10%</span></h3>
-									<h3>Private Presale<br><span>4%</span></h3>
+									<h3>Private Presale<br><span>10%</span></h3>
+									<h3>Seed Presale<br><span>4%</span></h3>
 									<h3>Advisors<br><span>2%</span></h3>
 									<h3>Bounty<br><span>2%</span></h3>
 								</div>
