@@ -59,7 +59,7 @@
 		<div class="section error">
 			<div class="cover">
 				<h1 data-sr="enter left, and hustle 20px" id="header-trigger">Error</h1>
-				<h3 data-sr="enter left, and hustle 20px">ZOINKS! You missed the moon, please try again!<br>If this problem persists, contact us at <a href="mailto:dev@konjure.org">dev@konjure.org</a>.</h3>
+				<h3 data-sr="enter left, and hustle 20px">Looks like you're lost, we hope your search works out in the future.<br>If this problem persists, contact us at <a href="mailto:dev@konjure.org">dev@konjure.org</a>.</h3>
 				<br><br>
 				<a href="https://konjure.org">
 					<div class="kbutton" hover="brighten" data-sr="enter left, and hustle 20px">

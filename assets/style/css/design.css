@@ -2738,7 +2738,7 @@ img.ghostpop {
 /* Error */
 
 .section.error {
-	background: url("../../media/images/moon.jpg") no-repeat center center; 
+	background: url("../../media/images/error.jpg") no-repeat center center; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
