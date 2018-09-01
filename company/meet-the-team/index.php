@@ -99,7 +99,7 @@
 							<div class="expander" change-icon="fa-angle-up">
 								<h5 class="no-select">Learn More <i class="fa fa-angle-down"></i></h5>
 								<div class="expander-content">
-									<h5>As a developer, entrepreneur, student, and investor, Ben is truly a jack of all trades for Konjure.<br><br>Branching out from the gaming industry years ago, he became involved with many online businesses, building up his connections and expertise.<br><br>While he finishes up school at Rutgers University, he fills the role of Director of Strategic Partnerships, working closely with our advisors and partners.</h5>
+									<h5>As a developer, entrepreneur, student, and investor, Ben is truly a jack of all trades for Konjure.<br><br>Branching out from the gaming industry years ago, he became involved with many online businesses, building up his connections and expertise.<br><br>While he finishes up school at Rutgers University, he fills the role of Director of Partnerships, working closely with our advisors and partners.</h5>
 								</div>
 							</div>
 						</div>
@@ -150,8 +150,8 @@
 						</div>
 					</div>
 				</div>
-				<!--
-				<h2 class="headline">Advisory Board</h2>
+				<br><br><br><br>
+				<h2 class="headline" data-sr="enter top, and hustle 20px">Advisory Board</h2>
 				<div class="grid no-padding">
 					<div class="row">
 						<div class="cell" data-sr="enter top, and hustle 20px">
@@ -161,7 +161,20 @@
 
 						</div>
 						<div class="cell" data-sr="enter top, and hustle 20px">
-
+							<img src="../../assets/media/images/naviin.png" class="member no-select center"/>
+							<img src="../../assets/media/images/ghost.png" class="ghostpop no-select"/>
+							<h4>Naviin Kapoor <div class="no-select">Dev</div></h4>
+							<h5>Founder of The Times of Crypto, Top 5 ICO Advisor</h5>
+							<a href="https://linkedin.com/in/naviinkapoor" target="_blank"><i class="fab fa-linkedin"></i></a>
+							<a href="https://twitter.com/naviinkapoor" target="_blank"><i class="fab fa-twitter-square"></i></a>
+							<a href="https://icobench.com/u/naviinkapoor" target="_blank"><i class="fa fa-check-square"></i></a>
+							<br><br>
+							<div class="expander" change-icon="fa-angle-up">
+								<h5 class="no-select">Learn More <i class="fa fa-angle-down"></i></h5>
+								<div class="expander-content">
+									<h5>Naviin Kapoor, founder of "The Times or Crypto" and "International Institute of Blockchain Academy".<br><br>Blockchain & ICO consultant, and a business transformation leader with more than twelve of experience in project management and business analysis and more than one year of experience in ICO implementation, cryptocurrencies, Ethereum, Bitcoin, Hyper Ledger, EOS, consensus protocol and distributed/shared ledger technology.</h5>
+								</div>
+							</div>
 						</div>
 						<div class="cell" data-sr="enter top, and hustle 20px">
 						
@@ -171,7 +184,6 @@
 						</div>
 					</div>
 				</div>
-				-->
 			</div>
 		</div>
 		
