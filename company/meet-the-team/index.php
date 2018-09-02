@@ -172,7 +172,7 @@
 							<div class="expander" change-icon="fa-angle-up">
 								<h5 class="no-select">Learn More <i class="fa fa-angle-down"></i></h5>
 								<div class="expander-content">
-									<h5>Naviin Kapoor, founder of "The Times or Crypto" and "International Institute of Blockchain Academy".<br><br>Blockchain & ICO consultant, and a business transformation leader with more than twelve of experience in project management and business analysis and more than one year of experience in ICO implementation, cryptocurrencies, Ethereum, Bitcoin, Hyper Ledger, EOS, consensus protocol and distributed/shared ledger technology.</h5>
+									<h5>Naviin Kapoor, founder of "The Times or Crypto" and "International Institute of Blockchain Academy".<br><br>Naviin is a blockchain & ICO consultant, and a business transformation leader with more than twelve years of experience in project management and business analysis and more than one year of experience in ICO implementation, including cryptocurrencies, Ethereum, Bitcoin, Hyper Ledger, EOS, consensus protocol and distributed/shared ledger technology.</h5>
 								</div>
 							</div>
 						</div>
