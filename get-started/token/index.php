@@ -92,7 +92,7 @@
 							<h3><div>$0.035</div> per token</h3>
 						</div>
 						<div class="cell" data-sr="enter left, and hustle 20px">
-							<h2>Sale Price <div>Q1 2019</div></h2>
+							<h2>Sale Price <div>2019</div></h2>
 							<h3><div>$0.05</div> per token</h3>
 						</div>
 					</div>
@@ -100,12 +100,12 @@
 					<div class="row">
 						<div class="cell-10">
 							<br>
-							<h2 class="text-center" data-sr="enter top, and hustle 20px"><div>Total Supply: 750,000,000 KONJ*</div></h2>
+							<h2 class="text-center" data-sr="enter top, and hustle 20px"><div>Total Supply: 750,000,000 KONJ</div></h2>
 							<br>
 							<h3 data-sr="enter left, and hustle 20px"><i class="fa fa-circle color-one"></i> 50% &middot; Token Sale</h3>
 							<h3 class="text-right" data-sr="enter right, and hustle 20px">375,000,000 KONJ</h3>
 							<div class="divider"></div>
-							<h3 data-sr="enter left, and hustle 20px"><i class="fa fa-circle color-two"></i> 20% &middot; Reserve Fund</h3>
+							<h3 data-sr="enter left, and hustle 20px"><i class="fa fa-circle color-two"></i> 20% &middot; Ecosystem Fund</h3>
 							<h3 class="text-right" data-sr="enter right, and hustle 20px">150,000,000 KONJ</h3>
 							<div class="divider"></div>
 							<h3 data-sr="enter left, and hustle 20px"><i class="fa fa-circle color-three"></i> 12% &middot; Founding Team</h3>
@@ -136,7 +136,7 @@
 								<div class="pie" data-start="353" data-value="7"></div>
 								<div class="pie-hide text-center">
 									<h3>Token Sale<br><span>50%</span></h3>
-									<h3>Reserve Fund<br><span>20%</span></h3>
+									<h3>Ecosystem Fund<br><span>20%</span></h3>
 									<h3>Founding Team<br><span>12%</span></h3>
 									<h3>Private Presale<br><span>10%</span></h3>
 									<h3>Seed Presale<br><span>4%</span></h3>
@@ -147,8 +147,6 @@
 						</div>
 					</div>
 				</div>
-				<br><br>
-				<h6 class="text-center">*Tokens that are not sold during sale periods will be burned.</h6>
 			</div>
 		</div>
 		

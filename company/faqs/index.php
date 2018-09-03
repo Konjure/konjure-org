@@ -111,7 +111,7 @@
 							<h3 class="no-select">What is the Bazaar?</h3>
 							<div class="expander-content">
 								<br>
-								<p>Konjure's Bazaar is a marketplace where developers can sell plugins. These are features that are not included in the website builder by default. Premium (paid) plugins are purchased using KONJ.</p>
+								<p>Konjure's Bazaar is a marketplace where developers can sell plugins. These are features that are not included in the website builder by default. Premium (paid) plugins are purchased using KONJ. Konjure is a sandbox; other companies and individuals will be building plugins on the ecosystem just like we are now.</p>
 							</div>
 						</div>
 						<h2 data-sr="enter left, and hustle 20px">Advanced</h2>
@@ -120,7 +120,7 @@
 							<h3 class="no-select">Why create Konjure LLC in Wyoming?</h3>
 							<div class="expander-content">
 								<br>
-								<p>As a team based in the United States, we decided that a Limited Liability Company registered in the most cryptocurrency-friendly state would be ideal. As we progress through our token sale, we will be establishing The Konjure Foundation in Switzerland, where the development of our website builder will take place.</p>
+								<p>As a team based in the United States, we decided that a Limited Liability Company registered in the most cryptocurrency-friendly state would be ideal. As we progress through our funding rounds, we will be establishing The Konjure Foundation in Switzerland, where the development of our website builder will take place.</p>
 							</div>
 						</div>
 						<div class="divider" data-sr="enter left, and hustle 20px"></div>

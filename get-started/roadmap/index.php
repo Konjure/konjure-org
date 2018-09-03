@@ -220,7 +220,7 @@
 						</div>
 						<div class="cell-3 no-select" data-sr="enter right, and hustle 20px">
 							<div class="roadmap-vline"></div>
-							<h3>Q1</h3>
+							<h3>Q1-Q4</h3>
 							<br>
 							<h3><span>Token Sale Begins</span></h3>
 						</div>
@@ -247,7 +247,7 @@
 						<div class="divider"></div>
 						<div class="q-cover">
 							<br><br>
-							<h3>Q1 2019</h3>
+							<h3>2019</h3>
 							<br><br>
 							<p class="q-description">Primary token sale takes place and tokens are dispursed to contributors.</p>
 							<div class="divider"></div>

@@ -73,7 +73,7 @@
 										<i class="fa fa-chevron-right"></i>
 									</button>
 								</form>
-								<h4 data-sr="enter left, and hustle 20px">Sign up to be notified when our <strong>token presale</strong> goes live</h4>
+								<h4 data-sr="enter left, and hustle 20px">Sign up to be notified when our <strong>token sale</strong> goes live</h4>
 							</div>
 						</div>
 					</div>
