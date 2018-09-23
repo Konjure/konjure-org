@@ -205,27 +205,27 @@
 						<div class="kprogress ui" data-sr="enter top, and hustle 20px">
 							<div class="blink"></div>
 						</div>
-						<h5>25%</h5>
+						<h5>35%</h5>
 					</div>
 					<div class="cell">
 						<h2 data-sr="enter top, and hustle 20px">Konjure Ecosystem</h2>
 						<br>
 						<h3 data-sr="enter top, and hustle 20px">A layer on top of IPFS containing all Konjure nodes and sites</h3>
 						<br>
-						<div class="kprogress none" data-sr="enter top, and hustle 20px">
+						<div class="kprogress eco" data-sr="enter top, and hustle 20px">
 							<div class="blink"></div>
 						</div>
-						<h5>0%</h5>
+						<h5>10%</h5>
 					</div>
 					<div class="cell">
 						<h2 data-sr="enter top, and hustle 20px">Konjure Gateway</h2>
 						<br>
 						<h3 data-sr="enter top, and hustle 20px">A feature-packed website builder with our GEN tech, AI, and more</h3>
 						<br>
-						<div class="kprogress none" data-sr="enter top, and hustle 20px">
+						<div class="kprogress gate" data-sr="enter top, and hustle 20px">
 							<div class="blink"></div>
 						</div>
-						<h5>0%</h5>
+						<h5>15%</h5>
 					</div>
 				</div>
 				<a href="https://github.com/konjure" target="_blank">

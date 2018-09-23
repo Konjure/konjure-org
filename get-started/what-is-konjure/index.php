@@ -67,7 +67,7 @@
 							<div class="pcontent" data-depth="0.1">
 								<img src="../../assets/media/images/ghost.svg" class="wghost center no-select"/>
 								<h1 data-sr="enter top, and hustle 20px">Konjure</h1>
-								<h2 data-sr="enter top, and hustle 20px">A website builder for the decentralized web</h2>
+								<h2 data-sr="enter top, and hustle 20px">A website builder for the Decentralized Web</h2>
 							</div>
 						</div>
 					</div>
@@ -90,9 +90,9 @@
 						<div class="cell">
 							<div class="vertical-center-outer">
 								<div class="vertical-center-inner">
-									<h3 data-sr="enter left, and hustle 20px">When the Internet first began, it was decentralized. This was the original goal, ensuring it could survive unexpected disasters and partial system failures. Following developments such as the World Wide Web, companies started to create and host websites on their own machines.</h3>
+									<h3 data-sr="enter left, and hustle 20px">Decentralization has been a core design element of the Internet since it began. This was essential to its success, ensuring it could survive unexpected disasters and partial system failures. The development of the World Wide Web made the Internet democratized, and as a result, individuals around the world began to create web pages, most of which were static. This was known as Web 1, where websites were primarily hosted on free web hosting services or ISP-run web servers.</h3>
 									<br>
-									<h3 data-sr="enter left, and hustle 20px">As with any growing platform, along came commercialization. Cloud computing, social networking, and a few other key ingredients sent us into what is now known as Web 2.0. A centralized web where a handful of big players own our data and control everything we see. This is not how it was intended to be.</h3>
+									<h3 data-sr="enter left, and hustle 20px">As with any growing industry, commercialization became prevalent. Social media platforms saw widespread adoption. Websites started to emphasize advanced usability and interoperability for end users. Enter Web 2, where distributed systems such as cloud computing arose, and a small number of corporations began to monopolize the Internet. Although these innovations have progressed the Web to where it is today, we have lost the vital aspect of decentralization. Data is the most valuable resource of our generation, and the vast majority of it is owned by the largest technology companies in the world. Not only does this create central points of failure for the Web, but it enables these corporations to have complete control over one of the most powerful and influential technologies that exists in our time.</h3>
 								</div>
 							</div>
 						</div>
@@ -115,16 +115,14 @@
 						<div class="cell text-right">
 							<div class="vertical-center-outer">
 								<div class="vertical-center-inner">
-									<h3 data-sr="enter right, and hustle 20px">It's time to make the jump back to decentralization. With the recent popularity of cryptocurrencies, brilliant teams of developers and visionaries are receiving funding to bring Web 3.0, a decentralized model of what you know and love today on the Internet.</h3>
-									<br>
-									<h3 data-sr="enter right, and hustle 20px">Blockchain is one of the key components in making this a reality. With new, scalable platforms, peer-to-peer networks, and many more exciting developments being made, it's time to start preparing for mass adoption.</h3>
+									<h3 data-sr="enter right, and hustle 20px">We are beginning the migration to Web 3, a decentralized, distributed, open Web for everyone, regardless of location or financial status. The innovations that are being made with cryptocurrency, blockchain, and peer-to-peer projects are giving us the opportunity to recreate the Internet with a new set of values and solutions for humanity. Konjure acts as a portal for these new technologies, enabling anyone to build a presence on this new Web, free from both government and corporate authority.</h3>
 								</div>
 							</div>
 						</div>
 					</div>
 					<div class="row">
 						<div class="cell text-center">
-							<h3 data-sr="enter top, and hustle 20px"><strong>This is where Konjure comes in.</strong> We're forging a new type of website builder that streamlines the process from site creation to hosting on a peer-to-peer network. In just a few clicks, users can have their very own blog, shop, or personal website on the Decentralized Web, and take advantage of our KONJ utility token throughout our ecosystem. This offers a faster, more secure environment where users have full ownership over their data.</h3>
+							<h3 data-sr="enter top, and hustle 20px">We're forging a new type of website builder that streamlines the process from site creation to hosting on a peer-to-peer network. In just a few clicks, users can have their very own blog, shop, or personal website on the Decentralized Web, and take advantage of our KONJ utility token throughout our ecosystem. This offers a faster, more secure environment where users have full ownership over their data.</h3>
 						</div>
 					</div>
 				</div>

@@ -158,9 +158,6 @@
 
 						</div>
 						<div class="cell" data-sr="enter top, and hustle 20px">
-
-						</div>
-						<div class="cell" data-sr="enter top, and hustle 20px">
 							<img src="../../assets/media/images/naviin.png" class="member no-select center"/>
 							<img src="../../assets/media/images/ghost.png" class="ghostpop no-select"/>
 							<h4>Naviin Kapoor <div class="no-select">Dev</div></h4>
@@ -177,7 +174,22 @@
 							</div>
 						</div>
 						<div class="cell" data-sr="enter top, and hustle 20px">
-						
+
+						</div>
+						<div class="cell" data-sr="enter top, and hustle 20px">
+							<img src="../../assets/media/images/andrew.png" class="member no-select center"/>
+							<img src="../../assets/media/images/ghost.png" class="ghostpop no-select"/>
+							<h4>Andrew Bull</h4>
+							<h5>Founder of Bull Blockchain Law, Legal Advisor</h5>
+							<a href="https://linkedin.com/in/andrew-bull-752bb632/" target="_blank"><i class="fab fa-linkedin"></i></a>
+							<a href="https://twitter.com/andrewbull1988" target="_blank"><i class="fab fa-twitter-square"></i></a>
+							<br><br>
+							<div class="expander" change-icon="fa-angle-up">
+								<h5 class="no-select">Learn More <i class="fa fa-angle-down"></i></h5>
+								<div class="expander-content">
+									<h5>Andrew is well known in the Blockchain and Cryptocurrency space as an advocate for clear regulatory frameworks to ensure those entering and operating in this industry are well equipped.</h5>
+								</div>
+							</div>
 						</div>
 						<div class="cell" data-sr="enter top, and hustle 20px">
 

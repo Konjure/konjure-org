@@ -211,7 +211,7 @@ h6 {
 }
 
 .menu-button {
-	margin: 2px 15px 0 0;
+	margin: 2px 5px 0 0;
 	padding: 7px;
 	border: 2px solid #AAA;
 	-webkit-border-radius: 5px;
@@ -243,12 +243,12 @@ h6 {
 
 .vertical-nav {
 	height: 100%;
-	width: 290px;
+	width: 295px;
 	position: fixed;
 	top: 0;
 	right: 0;
 	background-color: #2C2B27;
-	margin-right: -297px;
+	margin-right: -302px;
 	z-index: 12;
 	overflow-y: scroll;
 	direction: rtl;
@@ -312,8 +312,8 @@ h6 {
 
 .vertical-nav-spacer {
 	height: 85px;
-	width: 290px;
-	margin-right: -290px;
+	width: 295px;
+	margin-right: -295px;
 	background-color: #2C2B27;
 	border-bottom: 1px solid #222;
 	position: fixed;
@@ -2506,7 +2506,15 @@ img.ghostpop {
 }
 
 .kprogress.ui {
-	background: linear-gradient(to right, #2C2B27, #7EC31E 25%, #2C2B27 25%);
+	background: linear-gradient(to right, #2C2B27, #7EC31E 35%, #2C2B27 35%);
+}
+
+.kprogress.eco {
+	background: linear-gradient(to right, #2C2B27, #7EC31E 10%, #2C2B27 10%);
+}
+
+.kprogress.gate {
+	background: linear-gradient(to right, #2C2B27, #7EC31E 15%, #2C2B27 15%);
 }
 
 @keyframes blink {
@@ -2530,15 +2538,15 @@ img.ghostpop {
 }
 
 .kprogress.ui .blink {
-	margin-left: 25%;
+	margin-left: 34%;
 }
 
-.kprogress.gen .blink {
-	margin-left: 5%;
+.kprogress.eco .blink {
+	margin-left: 10%;
 }
 
-.kprogress.gen {
-	background: linear-gradient(to right, #2C2B27, #7EC31E 5%, #2C2B27 5%);
+.kprogress.gate .blink {
+	margin-left: 15%;
 }
 
 .kprogress.none {

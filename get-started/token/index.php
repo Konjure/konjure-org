@@ -195,7 +195,7 @@
 							<i class="fa fa-database" data-sr="enter top, and hustle 20px"></i>
 							<h2 data-sr="enter top, and hustle 20px">Platform-wide Currency</h2>
 							<br>
-							<h3 data-sr="enter top, and hustle 20px">All currencies coming into the network are converted into KONJ in a one-way exchange, providing site owners with one easy token to use or withdraw.</h3>
+							<h3 data-sr="enter top, and hustle 20px">Konjure facilitates all transactions running through the network, allowing shop owners to accept both fiat and cryptocurrencies, with KONJ as a feeless option.</h3>
 						</div>
 						<div class="cell">
 							<i class="fa fa-code" data-sr="enter top, and hustle 20px"></i>
@@ -216,7 +216,7 @@
 					<div class="cell-8">
 						<div class="vertical-center-outer">
 							<div class="vertical-center-inner">
-								<h2 data-sr="enter left, and hustle 20px">Token Sale Coming Q1 2019</h2>
+								<h2 data-sr="enter left, and hustle 20px">Token Sale Coming 2019</h2>
 								<br><br>
 								<h3 data-sr="enter left, and hustle 20px">Stay tuned for updates on the official launch of our public token sale. KONJ will be available to purchase at <em>$0.05</em> each.</h3>
 								<br><br>

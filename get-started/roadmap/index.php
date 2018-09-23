@@ -240,7 +240,7 @@
 							<div class="roadmap-vline"></div>
 							<h3>Q4</h3>
 							<br>
-							<h3><span>Konjure dApp Test Network</span></h3>
+							<h3><span>Konjure Network Nodes Alpha</span></h3>
 						</div>
 					</div>
 					<div class="row active">
@@ -270,7 +270,7 @@
 							<br><br>
 							<h3>Q4 2019</h3>
 							<br><br>
-							<p class="q-description">The Konjure dApp is converted to run on the Cardano platform and our test network opens.</p>
+							<p class="q-description">The Konjure network nodes begin to disperse KONJ to participants.</p>
 							<div class="divider"></div>
 						</div>
 					</div>
@@ -282,7 +282,7 @@
 							<div class="roadmap-vline"></div>
 							<h3>Q1</h3>
 							<br>
-							<h3><span>Website Builder Closed Alpha</span></h3>
+							<h3><span>Konjure Website Builder Alpha</span></h3>
 						</div>
 						<div class="cell-3 no-select" data-sr="enter right, and hustle 20px">
 							<div class="roadmap-vline"></div>
@@ -294,7 +294,7 @@
 							<div class="roadmap-vline"></div>
 							<h3>Q3</h3>
 							<br>
-							<h3><span>Website Builder Public Beta</span></h3>
+							<h3><span>Konjure Website Builder Beta</span></h3>
 						</div>
 						<div class="cell-3 no-select" data-sr="enter right, and hustle 20px">
 							<div class="roadmap-vline"></div>
@@ -309,7 +309,7 @@
 							<br><br>
 							<h3>Q1 2020</h3>
 							<br><br>
-							<p class="q-description">Whitelisted users gain access to our website builder for alpha testing.</p>
+							<p class="q-description">Users can build and manage their websites on the Decentralized Web.</p>
 							<div class="divider"></div>
 						</div>
 						<div class="q-cover">
@@ -323,7 +323,7 @@
 							<br><br>
 							<h3>Q3 2020</h3>
 							<br><br>
-							<p class="q-description">The doors to the Konjure gateway and website builder open up, allowing all users to test it for bugs.</p>
+							<p class="q-description">Konjure enters beta, and final tests are made before full release.</p>
 							<div class="divider"></div>
 						</div>
 						<div class="q-cover">

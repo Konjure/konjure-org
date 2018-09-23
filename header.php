@@ -12,7 +12,7 @@
 			<div class="links">
 				<div class="vertical-center-outer">
 					<div class="vertical-center-inner">
-						<a href="/company/papers/konjure-litepaper.pdf" target="_blank">Litepaper</a>
+						<a href="/company/papers/konjure-whitepaper.pdf" target="_blank">Whitepaper</a>
 						<span>&bull;</span>
 						<a href="javascript:;" class="lang">EN <i class="fa fa-chevron-down lang"></i></a>
 						<div class="languages">
