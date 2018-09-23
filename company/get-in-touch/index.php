@@ -80,7 +80,7 @@
 						<div class="cell text-right">
 							<h2 data-sr="enter right, and hustle 20px">Partnerships</h2>
 							<br>
-							<h3 data-sr="enter right, and hustle 20px">Contact Ben, our Director of Strategic Partnerships, for any investment or partnership opportunities.</h3>
+							<h3 data-sr="enter right, and hustle 20px">Contact Ben, our Director of Partnerships, for any investment or partnership opportunities.</h3>
 							<br>
 							<h3 data-sr="enter right, and hustle 20px">
 								<a href="mailto:ben@konjure.org">ben@konjure.org</a>
