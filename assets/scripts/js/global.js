@@ -137,18 +137,16 @@ $(document).ready(function() {
 		$(".vertical-nav a:nth-of-type(2)").addClass("active");
 	} else if (window.location.href.indexOf("roadmap") > -1) {
 		$(".vertical-nav a:nth-of-type(3)").addClass("active");
-	} else if(window.location.href.indexOf("prototype") > -1) {
-		$(".vertical-nav a:nth-of-type(4)").addClass("active");
 	} else if (window.location.href.indexOf("meet-the-team") > -1) {
-		$(".vertical-nav a:nth-of-type(5)").addClass("active");
+		$(".vertical-nav a:nth-of-type(4)").addClass("active");
 	} else if (window.location.href.indexOf("get-in-touch") > -1) {
-		$(".vertical-nav a:nth-of-type(6)").addClass("active");
+		$(".vertical-nav a:nth-of-type(5)").addClass("active");
 	} else if (window.location.href.indexOf("faqs") > -1) {
-		$(".vertical-nav a:nth-of-type(7)").addClass("active");
+		$(".vertical-nav a:nth-of-type(6)").addClass("active");
 	} else if (window.location.href.indexOf("overview") > -1) {
-		$(".vertical-nav a:nth-of-type(9)").addClass("active");
+		$(".vertical-nav a:nth-of-type(8)").addClass("active");
 	} else if (window.location.href.indexOf("decentralization") > -1) {
-		$(".vertical-nav a:nth-of-type(10)").addClass("active");
+		$(".vertical-nav a:nth-of-type(9)").addClass("active");
 	}
 	
 });
