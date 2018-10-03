@@ -82,7 +82,7 @@
 							<h3 class="no-select">What is the KONJ token?</h3>
 							<div class="expander-content">
 								<br>
-								<p>KONJ is our utility token for use inside the Konjure ecosystem. Users can browse shops, purchase plugins on our Bazaar, host their own website, and much more.</p>
+								<p>The KONJ token will be the backbone to our ecosystem model, providing an incentivized system for users to engage with features on Konjure including the Network Nodes and Bazaar. It also acts as a platform-wide currency that enables users to interact with an open marketplace consisting of commerce-driven Konjure Shops.</p>
 							</div>
 						</div>
 						<div class="divider" data-sr="enter left, and hustle 20px"></div>
@@ -91,7 +91,7 @@
 							<h3 class="no-select">How can I obtain KONJ?</h3>
 							<div class="expander-content">
 								<br>
-								<p>After our primary token sale in Q1 2019, KONJ will be available to purchase on the open market. Inside of our dApp, users will be able to run a node and get rewarded with KONJ tokens, giving them the opportunity to host their website and purchase plugins for free.</p>
+								<p>Inside of our dApp, users will be able to run a node and get rewarded with KONJ tokens, giving them the opportunity to host their website and purchase plugins for free.</p>
 							</div>
 						</div>
 						<div class="divider" data-sr="enter left, and hustle 20px"></div>
@@ -121,6 +121,14 @@
 							<div class="expander-content">
 								<br>
 								<p>As a team based in the United States, we decided that a Limited Liability Company registered in the most cryptocurrency-friendly state would be ideal. As we progress through our funding rounds, we will be establishing The Konjure Foundation in Switzerland, where the development of our website builder will take place.</p>
+								<br>
+								<p>The following proposals were recently signed into law in Wyoming, directly benefiting Konjure:</p>
+								<br>
+								<li><strong>HB 70: The Utility Token Bill</strong> - by providing specific requirements to classify as a Utility Token, Wyoming is tackling the ambiguity surrounding what defines these tokens. This bill offers clear guidelines for KONJ to adhere to in order to avoid being classified as a security.</li>
+								<br>
+								<li><strong>HB 101: The Blockchain Fillings Bill</strong> - enables the creation and use of blockchain technology for (i) the purpose of storing records, (ii) the use of a network address to identify a corporation’s shareholder, and (iii) the acceptance of shareholder votes signed by network signatures.</li>
+								<br>
+								<li><strong>SF 111: The Crypto Property Tax Exemption Bill</strong> - ensures that virtual currencies are not subject to taxation as property in Wyoming.</li>
 							</div>
 						</div>
 						<div class="divider" data-sr="enter left, and hustle 20px"></div>
@@ -130,15 +138,6 @@
 							<div class="expander-content">
 								<br>
 								<p>With our plugin marketplace, the possibilities for what types of websites you'll be able to create in the future are endless. At launch, Konjure will create features specifically for shops, blogs, and personal websites.</p>
-							</div>
-						</div>
-						<div class="divider" data-sr="enter left, and hustle 20px"></div>
-						<div class="expander outer-border" hover="brighten" change-icon="fa-angle-up" data-sr="enter left, and hustle 20px">
-							<i class="fa fa-angle-down"></i>
-							<h3 class="no-select">When will I be able to create a website?</h3>
-							<div class="expander-content">
-								<br>
-								<p>Konjure is a large-scale project, but we're looking to have a public beta available towards the end of 2020.</p>
 							</div>
 						</div>
 						<div class="divider" data-sr="enter left, and hustle 20px"></div>
@@ -158,7 +157,7 @@
 							<h3 class="no-select">How many KONJ tokens are there?</h3>
 							<div class="expander-content">
 								<br>
-								<p>On launch, <strong>750,000,000</strong> KONJ tokens were created. KONJ cannot be mined.</p>
+								<p>At our Token Generation Event, <strong>750,000,000</strong> KONJ tokens will be created. KONJ cannot be mined.</p>
 							</div>
 						</div>
 						<div class="divider" data-sr="enter left, and hustle 20px"></div>
@@ -168,15 +167,6 @@
 							<div class="expander-content">
 								<br>
 								<p>Konjure is working with IPFS for static website content and delivery, and Cardano for our dApp, token, and computing.</p>
-							</div>
-						</div>
-						<div class="divider" data-sr="enter left, and hustle 20px"></div>
-						<div class="expander outer-border" hover="brighten" change-icon="fa-angle-up" data-sr="enter left, and hustle 20px">
-							<i class="fa fa-angle-down"></i>
-							<h3 class="no-select">How will you deal with fraudulent or illegal websites?</h3>
-							<div class="expander-content">
-								<br>
-								<p>Creating a truly decentralized ecosystem comes with challenges. Since we won't have the ability to delete websites in the future, we will give our community the tools, such as website flagging, to keep users safe. We will elaborate on these features as development progresses.</p>
 							</div>
 						</div>
 						<p class="last-word" data-sr="enter left, and hustle 20px">Didn't find what you were looking for? <a href="/company/get-in-touch">Get in touch.</a></p>
