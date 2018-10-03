@@ -6,7 +6,7 @@
 
 	<head>
 	
-		<title>Konjure - The Website Builder of the Blockchain</title>
+		<title>Konjure - A Portal to the Decentralized Web</title>
 		
 		<meta charset="UTF-8">
 		
@@ -73,7 +73,7 @@
 										<i class="fa fa-chevron-right"></i>
 									</button>
 								</form>
-								<h4 data-sr="enter left, and hustle 20px">Sign up to be notified when our <strong>token sale</strong> goes live</h4>
+								<h4 data-sr="enter left, and hustle 20px">Sign up to join our newsletter about Konjure development</h4>
 							</div>
 						</div>
 					</div>
@@ -135,7 +135,7 @@
 							<div class="vertical-center-inner">
 								<h2 data-sr="enter left, and hustle 20px">A token for the new Web</h2>
 								<br><br>
-								<h3 data-sr="enter left, and hustle 20px">Generate, launch, and maintain your website with the power of KONJ, our versatile utility token. Shop within our ecosystem, purchase plugins from developers, and much more.</h3>
+								<h3 data-sr="enter left, and hustle 20px">Generate, launch, and maintain your website with the power of KONJ, our versatile utility token. Earn node rewards, purchase plugins from developers, and much more.</h3>
 								<br><br>
 								<a href="/get-started/token">
 									<div class="kbutton" hover="brighten" data-sr="enter left, and hustle 20px">
@@ -346,9 +346,9 @@
 				<div class="grid no-padding">
 					<div class="row">
 						<div class="cell-8">
-							<h2 data-sr="enter left, and hustle 20px">Adoption</h2>
+							<h2 data-sr="enter left, and hustle 20px">Network Nodes</h2>
 							<br>
-							<h3 data-sr="enter left, and hustle 20px">With blockchain technology scaling and advancing, it's time to take cryptocurrency to the masses. Konjure will accept many forms of currency that automatically shift into KONJ tokens.</h3>
+							<h3 data-sr="enter left, and hustle 20px">By choosing to allocate a set limit of CPU, memory, and network speed, users can become part of our peer-to-peer file storage system. In return, they receive KONJ as a reward, which can be used to host their website and be spent throughout the ecosystem.</h3>
 							<br>
 							<h3 data-sr="enter left, and hustle 20px"><a href="/get-started/what-is-konjure">What is Konjure? <i class="fa fa-angle-right"></i></a></h3>
 						</div>

@@ -78,25 +78,40 @@
 			<i class="fa fa-angle-double-down"></i>
 		</div>
 		
+		<div class="section cardano gradient">
+			<div class="cover">
+				<div class="grid no-padding">
+					<div class="cell">
+						<div class="vertical-center-outer">
+							<div class="vertical-center-inner">
+								<img src="../../assets/media/images/cardano.png" class="no-select"/>
+							</div>
+						</div>
+					</div>
+					<div class="cell-9 text-right">
+						<div class="vertical-center-outer">
+							<div class="vertical-center-inner">
+								<h2 data-sr="enter right, and hustle 20px">Blockchain Technology</h2>
+								<br><br>
+								<h3 data-sr="enter right, and hustle 20px">Konjure will be working with Cardano, not only for token deployment, but for our decentralized application as well as user websites that require computing power through smart contracts. Our peer-to-peer file system works alongside the blockchain, allowing the network to timestamp and secure website content without placing that data on the blockchain itself.</h3>
+								<br><br>
+								<a href="/company/papers/konjure-whitepaper.pdf" target="_blank">
+									<div class="kbutton" hover="brighten" data-sr="enter right, and hustle 20px">
+										<div class="kbutton-left">Read the Whitepaper</div>
+										<div class="kbutton-right"><i class="fa fa-chevron-right"></i></div>
+									</div>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
 		<div class="section chart dark" id="header-trigger">
 			<div class="cover">
 				<h1 class="headline text-center" data-sr="enter top, and hustle 20px">Token Details</h1>
 				<div class="grid no-padding">
-					<div class="row">
-						<div class="cell" data-sr="enter left, and hustle 20px">
-							<h2>Seed Price <div>Q3 2018</div></h2>
-							<h3><div>$0.02</div> per token</h3>
-						</div>
-						<div class="cell" data-sr="enter left, and hustle 20px">
-							<h2>Private Price <div>Q4 2018</div></h2>
-							<h3><div>$0.035</div> per token</h3>
-						</div>
-						<div class="cell" data-sr="enter left, and hustle 20px">
-							<h2>Sale Price <div>2019</div></h2>
-							<h3><div>$0.05</div> per token</h3>
-						</div>
-					</div>
-					<div class="divider"></div>
 					<div class="row">
 						<div class="cell-10">
 							<br>
@@ -105,16 +120,16 @@
 							<h3 data-sr="enter left, and hustle 20px"><i class="fa fa-circle color-one"></i> 50% &middot; Token Sale</h3>
 							<h3 class="text-right" data-sr="enter right, and hustle 20px">375,000,000 KONJ</h3>
 							<div class="divider"></div>
-							<h3 data-sr="enter left, and hustle 20px"><i class="fa fa-circle color-two"></i> 20% &middot; Ecosystem Fund</h3>
+							<h3 data-sr="enter left, and hustle 20px"><i class="fa fa-circle color-two"></i> 20% &middot; Ecosystem Grant Platform</h3>
 							<h3 class="text-right" data-sr="enter right, and hustle 20px">150,000,000 KONJ</h3>
 							<div class="divider"></div>
 							<h3 data-sr="enter left, and hustle 20px"><i class="fa fa-circle color-three"></i> 12% &middot; Founding Team</h3>
 							<h3 class="text-right" data-sr="enter right, and hustle 20px">90,000,000 KONJ</h3>
 							<div class="divider"></div>
-							<h3 data-sr="enter left, and hustle 20px"><i class="fa fa-circle color-four"></i> 10% &middot; Private Presale</h3>
+							<h3 data-sr="enter left, and hustle 20px"><i class="fa fa-circle color-four"></i> 10% &middot; Presale</h3>
 							<h3 class="text-right" data-sr="enter right, and hustle 20px">75,000,000 KONJ</h3>
 							<div class="divider"></div>
-							<h3 data-sr="enter left, and hustle 20px"><i class="fa fa-circle color-five"></i> 4% &middot; Seed Presale</h3>
+							<h3 data-sr="enter left, and hustle 20px"><i class="fa fa-circle color-five"></i> 4% &middot; Seed</h3>
 							<h3 class="text-right" data-sr="enter right, and hustle 20px">30,000,000 KONJ</h3>
 							<div class="divider"></div>
 							<h3 data-sr="enter left, and hustle 20px"><i class="fa fa-circle color-six"></i> 2% &middot; Advisors</h3>
@@ -135,11 +150,11 @@
 								<div class="pie" data-start="346" data-value="7"></div>
 								<div class="pie" data-start="353" data-value="7"></div>
 								<div class="pie-hide text-center">
-									<h3>Token Sale<br><span>50%</span></h3>
-									<h3>Ecosystem Fund<br><span>20%</span></h3>
-									<h3>Founding Team<br><span>12%</span></h3>
-									<h3>Private Presale<br><span>10%</span></h3>
-									<h3>Seed Presale<br><span>4%</span></h3>
+									<h3>Sale<br><span>50%</span></h3>
+									<h3>Grants<br><span>20%</span></h3>
+									<h3>Team<br><span>12%</span></h3>
+									<h3>Presale<br><span>10%</span></h3>
+									<h3>Seed<br><span>4%</span></h3>
 									<h3>Advisors<br><span>2%</span></h3>
 									<h3>Bounty<br><span>2%</span></h3>
 								</div>
@@ -150,65 +165,6 @@
 			</div>
 		</div>
 		
-		<div class="section cardano gradient">
-			<div class="cover">
-				<div class="grid no-padding">
-					<div class="cell">
-						<div class="vertical-center-outer">
-							<div class="vertical-center-inner">
-								<img src="../../assets/media/images/cardano.png" class="no-select"/>
-							</div>
-						</div>
-					</div>
-					<div class="cell text-right">
-						<div class="vertical-center-outer">
-							<div class="vertical-center-inner">
-								<h2 data-sr="enter right, and hustle 20px">Blockchain Technology</h2>
-								<br><br>
-								<h3 data-sr="enter right, and hustle 20px">We share a vision for the future with Cardano and feel confident moving our token towards their platform. Konjure aims to be one of the first projects on the Cardano protocol, following their mainnet release.</h3>
-								<br><br>
-								<a href="/company/meet-the-team">
-									<div class="kbutton" hover="brighten" data-sr="enter right, and hustle 20px">
-										<div class="kbutton-left">Meet the Team</div>
-										<div class="kbutton-right"><i class="fa fa-chevron-right"></i></div>
-									</div>
-								</a>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		
-		<div class="section use-cases features">
-			<div class="cover text-center">
-				<h2 class="headline" data-sr="enter top, and hustle 20px">Primary Use Cases</h2>
-				<div class="grid no-padding">
-					<div class="row">
-						<div class="cell">
-							<i class="fa fa-globe" data-sr="enter top, and hustle 20px"></i>
-							<h2 data-sr="enter top, and hustle 20px">Node Reward</h2>
-							<br>
-							<h3 data-sr="enter top, and hustle 20px">Inside the Konjure dApp, users will have the option to run a node and be rewarded with KONJ tokens. They can then use these tokens throughout our platform.</h3>
-						</div>
-						<div class="cell">
-							<i class="fa fa-database" data-sr="enter top, and hustle 20px"></i>
-							<h2 data-sr="enter top, and hustle 20px">Platform-wide Currency</h2>
-							<br>
-							<h3 data-sr="enter top, and hustle 20px">Konjure facilitates all transactions running through the network, allowing shop owners to accept both fiat and cryptocurrencies, with KONJ as a feeless option.</h3>
-						</div>
-						<div class="cell">
-							<i class="fa fa-code" data-sr="enter top, and hustle 20px"></i>
-							<h2 data-sr="enter top, and hustle 20px">Plugin Bazaar</h2>
-							<br>
-							<h3 data-sr="enter top, and hustle 20px">Browse plugins on the Bazaar, a place where developers use the Konjure API to build extra features that aren't included in our website builder by default.</h3>
-						</div>
-					</div>
-				</div>
-				<h4 data-sr="enter top, and hustle 20px">With more to come...</h4>
-			</div>
-		</div>
-		
 		<div class="section graphic-section sec-right presale-soon">
 			<div class="gradient-cover"></div>
 			<div class="cover">
@@ -216,9 +172,9 @@
 					<div class="cell-8">
 						<div class="vertical-center-outer">
 							<div class="vertical-center-inner">
-								<h2 data-sr="enter left, and hustle 20px">Token Sale Coming 2019</h2>
+								<h2 data-sr="enter left, and hustle 20px">Token Sale</h2>
 								<br><br>
-								<h3 data-sr="enter left, and hustle 20px">Stay tuned for updates on the official launch of our public token sale. KONJ will be available to purchase at <em>$0.05</em> each.</h3>
+								<h3 data-sr="enter left, and hustle 20px">Konjure is running an ongoing token sale to raise funds for the development of our platform. Stay up to date with our progress on the roadmap.</h3>
 								<br><br>
 								<a href="/get-started/roadmap">
 									<div class="kbutton" hover="brighten" data-sr="enter left, and hustle 20px">

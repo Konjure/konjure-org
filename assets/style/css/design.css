@@ -1776,6 +1776,8 @@ img.ghostpop {
 }
 
 #particles-js {
+	height: 100%;
+	width: 100%;
 	top: 0;
 	opacity: 0.25;
 }
@@ -1803,6 +1805,10 @@ img.ghostpop {
 .section.chart {
 	background-color: #2C2B27;
 	border-bottom: 2px solid #222;
+}
+
+.section.cardano {
+	border-color: #222222;
 }
 
 .section.cardano img {

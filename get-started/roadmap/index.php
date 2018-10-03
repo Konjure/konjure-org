@@ -170,15 +170,15 @@
 							<br>
 							<h3><span>Initial Business Development</span></h3>
 						</div>
-						<div class="cell-3 no-select active" data-sr="enter right, and hustle 20px">
-							<div class="roadmap-vline"></div>
-							<h3 class="active">Q3</h3>
-							<br>
-							<h3><span>Whitepaper & Private Presale</span></h3>
-						</div>
 						<div class="cell-3 no-select" data-sr="enter right, and hustle 20px">
 							<div class="roadmap-vline"></div>
-							<h3>Q4</h3>
+							<h3>Q3 <i class="fa fa-check-circle"></i></h3>
+							<br>
+							<h3><span>Whitepaper & Private Sales</span></h3>
+						</div>
+						<div class="cell-3 no-select active" data-sr="enter right, and hustle 20px">
+							<div class="roadmap-vline"></div>
+							<h3 class="active">Q4</h3>
 							<br>
 							<h3><span>Konjure Prototype/MVP</span></h3>
 						</div>
@@ -199,16 +199,16 @@
 							<p class="q-description">Johnathon Young, Justin Roberts, and Connor Hollasch join the Konjure team to fill core director positions. Konjure LLC is registered in the state of Wyoming.</p>
 							<div class="divider"></div>
 						</div>
-						<div class="q-cover shown initial" data-sr="enter right, and hustle 20px">
-							<br><br>
-							<h3 class="active">Q3 2018</h3>
-							<br><br>
-							<p class="q-description">Konjure website launches and private presale begins. Initial contributors and advisors are brought on board. Whitepaper is released.</p>
-							<div class="divider"></div>
-						</div>
 						<div class="q-cover">
 							<br><br>
-							<h3>Q4 2018</h3>
+							<h3>Q3 2018</h3>
+							<br><br>
+							<p class="q-description">Konjure website launches and private sales begin. Initial contributors and advisors are brought on board. Whitepaper is released.</p>
+							<div class="divider"></div>
+						</div>
+						<div class="q-cover shown initial" data-sr="enter right, and hustle 20px">
+							<br><br>
+							<h3 class="active">Q4 2018</h3>
 							<br><br>
 							<p class="q-description">Our prototype application is launched, allowing users to run nodes and upload websites to the Decentralized Web.</p>
 							<div class="divider"></div>
