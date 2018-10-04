@@ -165,6 +165,35 @@
 			</div>
 		</div>
 		
+		<div class="section use-cases features">
+			<div class="cover text-center">
+				<h2 class="headline" data-sr="enter top, and hustle 20px">Primary Use Cases</h2>
+				<div class="grid no-padding">
+					<div class="row">
+						<div class="cell">
+							<i class="fa fa-globe" data-sr="enter top, and hustle 20px"></i>
+							<h2 data-sr="enter top, and hustle 20px">Node Reward</h2>
+							<br>
+							<h3 data-sr="enter top, and hustle 20px">Inside the Konjure dApp, users will have the option to run a node and be rewarded with KONJ tokens. They can then use these tokens throughout our platform.</h3>
+						</div>
+						<div class="cell">
+							<i class="fa fa-database" data-sr="enter top, and hustle 20px"></i>
+							<h2 data-sr="enter top, and hustle 20px">Platform-wide Currency</h2>
+							<br>
+							<h3 data-sr="enter top, and hustle 20px">Konjure facilitates all transactions running through the network, allowing shop owners to accept both fiat and cryptocurrencies, with KONJ as a feeless option.</h3>
+						</div>
+						<div class="cell">
+							<i class="fa fa-code" data-sr="enter top, and hustle 20px"></i>
+							<h2 data-sr="enter top, and hustle 20px">Plugin Bazaar</h2>
+							<br>
+							<h3 data-sr="enter top, and hustle 20px">Browse plugins on the Bazaar, a place where developers use the Konjure API to build extra features that aren't included in our website builder by default.</h3>
+						</div>
+					</div>
+				</div>
+				<h4 data-sr="enter top, and hustle 20px">With more to come...</h4>
+			</div>
+		</div>
+		
 		<div class="section graphic-section sec-right presale-soon">
 			<div class="gradient-cover"></div>
 			<div class="cover">
