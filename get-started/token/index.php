@@ -120,7 +120,7 @@
 							<h3 data-sr="enter left, and hustle 20px"><i class="fa fa-circle color-one"></i> 50% &middot; Token Sale</h3>
 							<h3 class="text-right" data-sr="enter right, and hustle 20px">375,000,000 KONJ</h3>
 							<div class="divider"></div>
-							<h3 data-sr="enter left, and hustle 20px"><i class="fa fa-circle color-two"></i> 20% &middot; Ecosystem Grant Platform</h3>
+							<h3 data-sr="enter left, and hustle 20px"><i class="fa fa-circle color-two"></i> 20% &middot; Ecosystem Growth</h3>
 							<h3 class="text-right" data-sr="enter right, and hustle 20px">150,000,000 KONJ</h3>
 							<div class="divider"></div>
 							<h3 data-sr="enter left, and hustle 20px"><i class="fa fa-circle color-three"></i> 12% &middot; Founding Team</h3>
@@ -151,7 +151,7 @@
 								<div class="pie" data-start="353" data-value="7"></div>
 								<div class="pie-hide text-center">
 									<h3>Sale<br><span>50%</span></h3>
-									<h3>Grants<br><span>20%</span></h3>
+									<h3>Growth<br><span>20%</span></h3>
 									<h3>Team<br><span>12%</span></h3>
 									<h3>Presale<br><span>10%</span></h3>
 									<h3>Seed<br><span>4%</span></h3>
