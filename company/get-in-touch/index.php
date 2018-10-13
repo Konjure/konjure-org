@@ -71,10 +71,10 @@
 						<div class="cell">
 							<h2 data-sr="enter left, and hustle 20px">Press</h2>
 							<br>
-							<h3 data-sr="enter left, and hustle 20px">For any interviews or general press inquiries, please reach out to Justin, our Director of Communications.</h3>
+							<h3 data-sr="enter left, and hustle 20px">For any interviews or general press inquiries, please reach out to Jacob, our Community Manager.</h3>
 							<br>
 							<h3 data-sr="enter left, and hustle 20px">
-								<a href="mailto:justin@konjure.org">justin@konjure.org</a>
+								<a href="mailto:jacob@konjure.org">jacob@konjure.org</a>
 							</h3>
 						</div>
 						<div class="cell text-right">

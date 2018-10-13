@@ -68,7 +68,7 @@
 				<h2 class="headline" data-sr="enter top, and hustle 20px">Core Startup Team</h2>
 				<div class="grid no-padding">
 					<div class="row">
-						<h3 data-sr="enter top, and hustle 20px">We understand the value a small, strong team can have in a startup. Konjure is a group of five remarkable individuals with expertise in web development, blockchain, and finances. As we progress on our journey to create the world's first website builder for the Decentralized Web, we'll be actively expanding our team to keep up with our ambitious goals.</h3>
+						<h3 data-sr="enter top, and hustle 20px">We understand the value a small, strong team can have in a startup. Konjure is a group of four remarkable individuals with expertise in web development, blockchain, and finances. As we progress on our journey to create the world's first website builder for the Decentralized Web, we'll be actively expanding our team to keep up with our ambitious goals.</h3>
 						<br>
 					</div>
 					<div class="row">
@@ -107,29 +107,14 @@
 							<img src="../../assets/media/images/johnathon.png" class="member no-select center"/>
 							<img src="../../assets/media/images/ghost.png" class="ghostpop no-select"/>
 							<h4>Johnathon Young</h4>
-							<h5>Director, Marketing</h5>
+							<h5>Director, Economics</h5>
 							<a href="https://linkedin.com/in/johnathon-young-9a1593167" target="_blank"><i class="fab fa-linkedin"></i></a>
 							<a href="https://twitter.com/dd_cryptonews" target="_blank"><i class="fab fa-twitter-square"></i></a>
 							<br><br>
 							<div class="expander" change-icon="fa-angle-up">
 								<h5 class="no-select">Learn More <i class="fa fa-angle-down"></i></h5>
 								<div class="expander-content">
-									<h5>After acting as a consultant in Konjure's early stages, Johnathon joined the team to oversee our marketing strategies.<br><br>With over 5 years of guiding various startups and business ventures, he brings a practical entrepreneurial skillset to our roster.<br><br>Working in tandem with Justin, he's building our branding model and acts as a community liason, bridging the gap between our project development and audience.</h5>
-								</div>
-							</div>
-						</div>
-						<div class="cell" data-sr="enter top, and hustle 20px">
-							<img src="../../assets/media/images/justin.png" class="member no-select center"/>
-							<img src="../../assets/media/images/ghost.png" class="ghostpop no-select"/>
-							<h4>Justin Roberts <div class="no-select">Dev</div></h4>
-							<h5>Director, Communications</h5>
-							<a href="https://linkedin.com/in/justin-r-815351165" target="_blank"><i class="fab fa-linkedin"></i></a>
-							<a href="https://twitter.com/talk_konjure" target="_blank"><i class="fab fa-twitter-square"></i></a>
-							<br><br>
-							<div class="expander" change-icon="fa-angle-up">
-								<h5 class="no-select">Learn More <i class="fa fa-angle-down"></i></h5>
-								<div class="expander-content">
-									<h5>After graduating from SIU, Carbondale with a BFA in Communication Design, Justin gained almost a decade of experience in brand building.<br><br>Collaborating with Johnathon, he creates advertising strategies and acts as the primary media contact for Konjure.<br><br>As the spokesperson for our social media outlets, he's heavily involved in our community, actively taking in feedback and communicating it to the team.</h5>
+									<h5>After acting as a consultant in Konjure's early stages, Johnathon joined the team to oversee our token economics.<br><br>With over 5 years of guiding various startups and business ventures, he brings a practical entrepreneurial skillset to our roster.<br><br>By working behind the scenes with the development and planning of the KONJ token, he ensures our ecosystem is prepared for future growth.</h5>
 								</div>
 							</div>
 						</div>
@@ -139,12 +124,28 @@
 							<h4>Connor Hollasch <div class="no-select">Dev</div></h4>
 							<h5>Director, Engineering</h5>
 							<a href="https://linkedin.com/in/connorhollasch" target="_blank"><i class="fab fa-linkedin"></i></a>
+							<a href="https://twitter.com/imodzombies4fun" target="_blank"><i class="fab fa-twitter-square"></i></a>
 							<a href="https://github.com/chollasch" target="_blank"><i class="fab fa-github-square"></i></a>
 							<br><br>
 							<div class="expander" change-icon="fa-angle-up">
 								<h5 class="no-select">Learn More <i class="fa fa-angle-down"></i></h5>
 								<div class="expander-content">
 									<h5>Passionate about Computer Science since high school, Connor has honed his skills in various programming languages including Java, Python, and C.<br><br>Beyond many of his personal projects, he created curriculum and taught classes for TEALSK12.<br><br>Following his graduation from Western Washington University, Connor will guide Konjure's engineering team as a director and lead developer of our platform.</h5>
+								</div>
+							</div>
+						</div>
+						<div class="cell" data-sr="enter top, and hustle 20px">
+							<img src="../../assets/media/images/jacob.png" class="member no-select center"/>
+							<img src="../../assets/media/images/ghost.png" class="ghostpop no-select"/>
+							<h4>Jacob W Beebe</h4>
+							<h5>Community Manager</h5>
+							<a href="https://linkedin.com/in/jacobwbeebe" target="_blank"><i class="fab fa-linkedin"></i></a>
+							<a href="https://twitter.com/jacobwbeebe" target="_blank"><i class="fab fa-twitter-square"></i></a>
+							<br><br>
+							<div class="expander" change-icon="fa-angle-up">
+								<h5 class="no-select">Learn More <i class="fa fa-angle-down"></i></h5>
+								<div class="expander-content">
+									<h5>Jacob has been managing online communities for years. From forums to blogs, he has notable experience in growth and marketing for various industries across the Web.<br><br>As the spokesperson for our social media outlets, he's heavily involved in our community, actively taking in feedback and communicating it to the team. Eventually, he'll be organizing and hosting the first events and meetups for Konjure.</h5>
 								</div>
 							</div>
 						</div>
@@ -155,26 +156,13 @@
 				<div class="grid no-padding">
 					<div class="row">
 						<div class="cell" data-sr="enter top, and hustle 20px">
-
-						</div>
-						<div class="cell" data-sr="enter top, and hustle 20px">
 							<img src="../../assets/media/images/naviin.png" class="member no-select center"/>
 							<img src="../../assets/media/images/ghost.png" class="ghostpop no-select"/>
 							<h4>Naviin Kapoor <div class="no-select">Dev</div></h4>
-							<h5>Founder of The Times of Crypto, Top 5 ICO Advisor</h5>
+							<h5>Founder of The Times of Crypto, ICO Advisor</h5>
 							<a href="https://linkedin.com/in/naviinkapoor" target="_blank"><i class="fab fa-linkedin"></i></a>
 							<a href="https://twitter.com/naviinkapoor" target="_blank"><i class="fab fa-twitter-square"></i></a>
 							<a href="https://icobench.com/u/naviinkapoor" target="_blank"><i class="fa fa-check-square"></i></a>
-							<br><br>
-							<div class="expander" change-icon="fa-angle-up">
-								<h5 class="no-select">Learn More <i class="fa fa-angle-down"></i></h5>
-								<div class="expander-content">
-									<h5>Naviin Kapoor, founder of "The Times or Crypto" and "International Institute of Blockchain Academy".<br><br>Naviin is a blockchain & ICO consultant, and a business transformation leader with more than twelve years of experience in project management and business analysis and more than one year of experience in ICO implementation, including cryptocurrencies, Ethereum, Bitcoin, Hyper Ledger, EOS, consensus protocol and distributed/shared ledger technology.</h5>
-								</div>
-							</div>
-						</div>
-						<div class="cell" data-sr="enter top, and hustle 20px">
-
 						</div>
 						<div class="cell" data-sr="enter top, and hustle 20px">
 							<img src="../../assets/media/images/andrew.png" class="member no-select center"/>
@@ -183,16 +171,29 @@
 							<h5>Founder of Bull Blockchain Law, Legal Advisor</h5>
 							<a href="https://linkedin.com/in/andrew-bull-752bb632/" target="_blank"><i class="fab fa-linkedin"></i></a>
 							<a href="https://twitter.com/andrewbull1988" target="_blank"><i class="fab fa-twitter-square"></i></a>
-							<br><br>
-							<div class="expander" change-icon="fa-angle-up">
-								<h5 class="no-select">Learn More <i class="fa fa-angle-down"></i></h5>
-								<div class="expander-content">
-									<h5>Andrew is well known in the Blockchain and Cryptocurrency space as an advocate for clear regulatory frameworks to ensure those entering and operating in this industry are well equipped.</h5>
-								</div>
-							</div>
 						</div>
 						<div class="cell" data-sr="enter top, and hustle 20px">
-
+							<img src="../../assets/media/images/alberto.png" class="member no-select center"/>
+							<img src="../../assets/media/images/ghost.png" class="ghostpop no-select"/>
+							<h4>Alberto Molina <div class="no-select">Dev</div></h4>
+							<h5>Founder of shelterDAO, Growth Advisor</h5>
+							<a href="https://www.linkedin.com/in/alberto-molina-thinklifestyle/" target="_blank"><i class="fab fa-linkedin"></i></a>
+							<a href="https://twitter.com/shelterdao" target="_blank"><i class="fab fa-twitter-square"></i></a>
+						</div>
+						<div class="cell" data-sr="enter top, and hustle 20px">
+							<img src="../../assets/media/images/justin.png" class="member no-select center"/>
+							<img src="../../assets/media/images/ghost.png" class="ghostpop no-select"/>
+							<h4>Justin Roberts</h4>
+							<h5>Creator of r/DRGN, Communications Advisor</h5>
+							<a href="https://linkedin.com/in/justin-r-815351165" target="_blank"><i class="fab fa-linkedin"></i></a>
+							<a href="https://twitter.com/talk_konjure" target="_blank"><i class="fab fa-twitter-square"></i></a>
+						</div>
+						<div class="cell" data-sr="enter top, and hustle 20px">
+							<img src="../../assets/media/images/danny.png" class="member no-select center"/>
+							<img src="../../assets/media/images/ghost.png" class="ghostpop no-select"/>
+							<h4>Danny G. Allen</h4>
+							<h5>Public Speaker, Business Advisor</h5>
+							<a href="https://www.linkedin.com/in/danny-allen-93333677/" target="_blank"><i class="fab fa-linkedin"></i></a>
 						</div>
 					</div>
 				</div>
