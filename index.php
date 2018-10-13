@@ -135,7 +135,7 @@
 							<div class="vertical-center-inner">
 								<h2 data-sr="enter left, and hustle 20px">A token for the new Web</h2>
 								<br><br>
-								<h3 data-sr="enter left, and hustle 20px">Generate, launch, and maintain your website with the power of KONJ, our versatile utility token. Earn node rewards, purchase plugins from developers, and much more.</h3>
+								<h3 data-sr="enter left, and hustle 20px">Build, launch, and maintain your website with the power of KONJ, our versatile utility token. Earn node rewards, purchase plugins from developers, and much more.</h3>
 								<br><br>
 								<a href="/get-started/token">
 									<div class="kbutton" hover="brighten" data-sr="enter left, and hustle 20px">
@@ -342,38 +342,38 @@
 						</div>
 					</div>
 				</div>
-				<h2 class="text-center headline" data-sr="enter top, and hustle 20px">Development Goals</h2>
+				<h2 class="text-center headline" data-sr="enter top, and hustle 20px">Solutions</h2>
 				<div class="grid no-padding">
 					<div class="row">
 						<div class="cell-8">
-							<h2 data-sr="enter left, and hustle 20px">Network Nodes</h2>
+							<h2 data-sr="enter left, and hustle 20px">Downtime</h2>
 							<br>
-							<h3 data-sr="enter left, and hustle 20px">By choosing to allocate a set limit of CPU, memory, and network speed, users can become part of our peer-to-peer file storage system. In return, they receive KONJ as a reward, which can be used to host their website and be spent throughout the ecosystem.</h3>
+							<h3 data-sr="enter left, and hustle 20px">The Konjure network is maintained by our community of nodes, operated by individuals around the globe. Website files are served by the closest available peers, and there are no physical servers to act as single points of failure. This ensures that DDoS attacks, hardware malfunctions, and data center conflicts are issues of the past. Website downtime will become a distant memory.</h3>
 							<br>
-							<h3 data-sr="enter left, and hustle 20px"><a href="/get-started/what-is-konjure">What is Konjure? <i class="fa fa-angle-right"></i></a></h3>
+							<h3 data-sr="enter left, and hustle 20px"><a href="/get-started/roadmap">Roadmap <i class="fa fa-angle-right"></i></a></h3>
 						</div>
 						<div class="cell-8 text-right">
-							<h2 data-sr="enter right, and hustle 20px">Decentralization</h2>
+							<h2 data-sr="enter right, and hustle 20px">Web Hosting Costs</h2>
 							<br>
-							<h3 data-sr="enter right, and hustle 20px">Konjure is being built to streamline the process from site creation to hosting on a decentralized network. In a peer-to-peer model, websites are faster, cheaper, more secure, and censorship-resistant.</h3>
+							<h3 data-sr="enter right, and hustle 20px">By choosing to allocate a set limit of CPU, memory, and network speed, users can run a node and become part of the file storage system. In return, they receive KONJ as a reward, which can be used to host their website and be spent throughout the ecosystem. This model disrupts the web hosting industry, allowing users to allocate their spare resources to cut the costs of hosting their own website.</h3>
 							<br>
-							<h3 data-sr="enter right, and hustle 20px"><a href="/development/decentralization"><i class="fa fa-angle-left"></i> More details</a></h3>
+							<h3 data-sr="enter right, and hustle 20px"><a href="/company/papers/konjure-whitepaper.pdf" target="_blank"><i class="fa fa-angle-left"></i> Whitepaper</a></h3>
 						</div>
 					</div>
 					<div class="row">
 						<div class="cell-8">
-							<h2 data-sr="enter left, and hustle 20px">Developer Bazaar</h2>
+							<h2 data-sr="enter left, and hustle 20px">Ownership</h2>
 							<br>
-							<h3 data-sr="enter left, and hustle 20px">Inside the Konjure Bazaar, users will be able to browse plugins created by our community of developers. These can either be free or premium, and features are unlocked using KONJ.</h3>
+							<h3 data-sr="enter left, and hustle 20px">Acting as a portal to the Decentralized Web, Konjure empowers anyone to build an online presence free from both government and corporate authority. Not even the core Konjure development team has access to modify user websites. As the sole owners of their data, users in all parts of the world can speak freely without any chance of censorship.</h3>
 							<br>
-							<h3 data-sr="enter left, and hustle 20px"><a href="/get-started/token">All use cases <i class="fa fa-angle-right"></i></a></h3>
+							<h3 data-sr="enter left, and hustle 20px"><a href="/development/decentralization">Decentralization <i class="fa fa-angle-right"></i></a></h3>
 						</div>
 						<div class="cell-8 text-right">
-							<h2 data-sr="enter right, and hustle 20px">Machine Learning</h2>
+							<h2 data-sr="enter right, and hustle 20px">Templates</h2>
 							<br>
-							<h3 data-sr="enter right, and hustle 20px">As AI becomes more prominent in businesses around the globe, we're bringing it to website creation. We're replacing templates with uniquely generated designs made specifically for you.</h3>
+							<h3 data-sr="enter right, and hustle 20px">On existing website builders you are forced to either use a template that is already live on a multitude of other websites, or hire a developer to design a custom theme for you, which can be costly. Konjure GEN will enable users to procedurally generate websites based on their industry, preferred style, color scheme, and other suggestions. This ensures that each new design is unique and built specifically for the user.</h3>
 							<br>
-							<h3 data-sr="enter right, and hustle 20px"><a href="/development/overview"><i class="fa fa-angle-left"></i> See development overview</a></h3>
+							<h3 data-sr="enter right, and hustle 20px"><a href="/development/overview"><i class="fa fa-angle-left"></i> Development Overview</a></h3>
 						</div>
 					</div>
 				</div>

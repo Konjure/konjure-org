@@ -131,26 +131,26 @@
 		
 		<div class="section unique-features gradient">
 			<div class="cover">
-				<h1 class="headline text-center" data-sr="enter top, and hustle 20px">The Konjure Website Builder</h1>
+				<h1 class="headline text-center" data-sr="enter top, and hustle 20px">Solutions</h1>
 				<div class="grid no-margin text-center">
 					<div class="row">
 						<div class="cell">
-							<h2 data-sr="enter top, and hustle 20px">Website Generation</h2>
-							<h3 data-sr="enter top, and hustle 20px">We're throwing away themes and templates. Konjure websites will be generated from scratch based on your industry and preferences.</h3>
+							<h2 data-sr="enter top, and hustle 20px">Downtime</h2>
+							<h3 data-sr="enter top, and hustle 20px">The Konjure network is maintained by our community of nodes, operated by individuals around the globe. Website files are served by the closest available peers, and there are no physical servers to act as single points of failure. This ensures that DDoS attacks, hardware malfunctions, and data center conflicts are issues of the past. Website downtime will become a distant memory.</h3>
 						</div>
 						<div class="cell">
-							<h2 data-sr="enter top, and hustle 20px">Machine Learning</h2>
-							<h3 data-sr="enter top, and hustle 20px">By incorporating artificial intelligence into our website builder, Konjure will be able to learn from your audience and provide various suggestions.</h3>
+							<h2 data-sr="enter top, and hustle 20px">Web Hosting Costs</h2>
+							<h3 data-sr="enter top, and hustle 20px">By choosing to allocate a set limit of CPU, memory, and network speed, users can run a node and become part of the file storage system. In return, they receive KONJ as a reward, which can be used to host their website and be spent throughout the ecosystem. This model disrupts the web hosting industry, allowing users to allocate their spare resources to cut the costs of hosting their own website.</h3>
 						</div>
 					</div>
 					<div class="row">
 						<div class="cell">
-							<h2 data-sr="enter top, and hustle 20px">Decentralization</h2>
-							<h3 data-sr="enter top, and hustle 20px">All Konjure website files will be deployed on a peer-to-peer network, where <em>not even we</em> have access to modify or remove them.</h3>
+							<h2 data-sr="enter top, and hustle 20px">Ownership</h2>
+							<h3 data-sr="enter top, and hustle 20px">Acting as a portal to the Decentralized Web, Konjure empowers anyone to build an online presence free from both government and corporate authority. Not even the core Konjure development team has access to modify user websites. As the sole owners of their data, users in all parts of the world can speak freely without any chance of censorship.</h3>
 						</div>
 						<div class="cell">
-							<h2 data-sr="enter top, and hustle 20px">Open Source</h2>
-							<h3 data-sr="enter top, and hustle 20px">The entire Konjure ecosystem is open source on Github. We encourage community involvement. Konjure is made for the world, not just us.</h3>
+							<h2 data-sr="enter top, and hustle 20px">Templates</h2>
+							<h3 data-sr="enter top, and hustle 20px">On existing website builders you are forced to either use a template that is already live on a multitude of other websites, or hire a developer to design a custom theme for you, which can be costly. Konjure GEN will enable users to procedurally generate websites based on their industry, preferred style, color scheme, and other suggestions. This ensures that each new design is unique and built specifically for the user.</h3>
 						</div>
 					</div>
 				</div>
