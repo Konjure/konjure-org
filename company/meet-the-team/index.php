@@ -65,10 +65,10 @@
 		
 		<div class="section team features" id="header-trigger">
 			<div class="cover text-center">
-				<h2 class="headline" data-sr="enter top, and hustle 20px">Core Startup Team</h2>
+				<h2 class="headline" data-sr="enter top, and hustle 20px">Directors</h2>
 				<div class="grid no-padding">
 					<div class="row">
-						<h3 data-sr="enter top, and hustle 20px">We understand the value a small, strong team can have in a startup. Konjure is a group of four remarkable individuals with expertise in web development, blockchain, and finances. As we progress on our journey to create the world's first website builder for the Decentralized Web, we'll be actively expanding our team to keep up with our ambitious goals.</h3>
+						<h3 data-sr="enter top, and hustle 20px">We understand the value a small, strong team can have in a startup. Konjure is a group of remarkable individuals with expertise in web development, blockchain, and finances. As we progress on our journey to create the world's first website builder for the Decentralized Web, we'll be actively expanding our team to keep up with our ambitious goals.</h3>
 						<br>
 					</div>
 					<div class="row">
@@ -134,6 +134,23 @@
 								</div>
 							</div>
 						</div>
+					</div>
+				</div>
+				<br><br><br><br>
+				<h2 class="headline" data-sr="enter top, and hustle 20px">Core Team</h2>
+				<div class="grid no-padding">
+					<div class="row">
+						<div class="cell">
+						
+						</div>
+						<div class="cell" data-sr="enter top, and hustle 20px">
+							<img src="../../assets/media/images/justin.png" class="member no-select center"/>
+							<img src="../../assets/media/images/ghost.png" class="ghostpop no-select"/>
+							<h4>Justin Roberts</h4>
+							<h5>Public Relations Specialist</h5>
+							<a href="https://linkedin.com/in/justin-r-815351165" target="_blank"><i class="fab fa-linkedin"></i></a>
+							<a href="https://twitter.com/talk_konjure" target="_blank"><i class="fab fa-twitter-square"></i></a>
+						</div>
 						<div class="cell" data-sr="enter top, and hustle 20px">
 							<img src="../../assets/media/images/jacob.png" class="member no-select center"/>
 							<img src="../../assets/media/images/ghost.png" class="ghostpop no-select"/>
@@ -141,13 +158,9 @@
 							<h5>Community Manager</h5>
 							<a href="https://linkedin.com/in/jacobwbeebe" target="_blank"><i class="fab fa-linkedin"></i></a>
 							<a href="https://twitter.com/jacobwbeebe" target="_blank"><i class="fab fa-twitter-square"></i></a>
-							<br><br>
-							<div class="expander" change-icon="fa-angle-up">
-								<h5 class="no-select">Learn More <i class="fa fa-angle-down"></i></h5>
-								<div class="expander-content">
-									<h5>Jacob has been managing online communities for years. From forums to blogs, he has notable experience in growth and marketing for various industries across the Web.<br><br>As the spokesperson for our social media outlets, he's heavily involved in our community, actively taking in feedback and communicating it to the team. Eventually, he'll be organizing and hosting the first events and meetups for Konjure.</h5>
-								</div>
-							</div>
+						</div>
+						<div class="cell">
+						
 						</div>
 					</div>
 				</div>
@@ -159,7 +172,7 @@
 							<img src="../../assets/media/images/naviin.png" class="member no-select center"/>
 							<img src="../../assets/media/images/ghost.png" class="ghostpop no-select"/>
 							<h4>Naviin Kapoor <div class="no-select">Dev</div></h4>
-							<h5>Founder of The Times of Crypto, ICO Advisor</h5>
+							<h5>Founder of The Times of Crypto,<br>ICO Advisor</h5>
 							<a href="https://linkedin.com/in/naviinkapoor" target="_blank"><i class="fab fa-linkedin"></i></a>
 							<a href="https://twitter.com/naviinkapoor" target="_blank"><i class="fab fa-twitter-square"></i></a>
 							<a href="https://icobench.com/u/naviinkapoor" target="_blank"><i class="fa fa-check-square"></i></a>
@@ -168,7 +181,7 @@
 							<img src="../../assets/media/images/andrew.png" class="member no-select center"/>
 							<img src="../../assets/media/images/ghost.png" class="ghostpop no-select"/>
 							<h4>Andrew Bull</h4>
-							<h5>Founder of Bull Blockchain Law, Legal Advisor</h5>
+							<h5>Founder of Bull Blockchain Law,<br>Legal Advisor</h5>
 							<a href="https://linkedin.com/in/andrew-bull-752bb632/" target="_blank"><i class="fab fa-linkedin"></i></a>
 							<a href="https://twitter.com/andrewbull1988" target="_blank"><i class="fab fa-twitter-square"></i></a>
 						</div>
@@ -176,23 +189,15 @@
 							<img src="../../assets/media/images/alberto.png" class="member no-select center"/>
 							<img src="../../assets/media/images/ghost.png" class="ghostpop no-select"/>
 							<h4>Alberto Molina <div class="no-select">Dev</div></h4>
-							<h5>Founder of shelterDAO, Growth Advisor</h5>
+							<h5>Founder of shelterDAO,<br>Growth Advisor</h5>
 							<a href="https://www.linkedin.com/in/alberto-molina-thinklifestyle/" target="_blank"><i class="fab fa-linkedin"></i></a>
 							<a href="https://twitter.com/shelterdao" target="_blank"><i class="fab fa-twitter-square"></i></a>
-						</div>
-						<div class="cell" data-sr="enter top, and hustle 20px">
-							<img src="../../assets/media/images/justin.png" class="member no-select center"/>
-							<img src="../../assets/media/images/ghost.png" class="ghostpop no-select"/>
-							<h4>Justin Roberts</h4>
-							<h5>Creator of r/DRGN, Communications Advisor</h5>
-							<a href="https://linkedin.com/in/justin-r-815351165" target="_blank"><i class="fab fa-linkedin"></i></a>
-							<a href="https://twitter.com/talk_konjure" target="_blank"><i class="fab fa-twitter-square"></i></a>
 						</div>
 						<div class="cell" data-sr="enter top, and hustle 20px">
 							<img src="../../assets/media/images/danny.png" class="member no-select center"/>
 							<img src="../../assets/media/images/ghost.png" class="ghostpop no-select"/>
 							<h4>Danny G. Allen</h4>
-							<h5>Public Speaker, Business Advisor</h5>
+							<h5>Public Speaker,<br>Business Advisor</h5>
 							<a href="https://www.linkedin.com/in/danny-allen-93333677/" target="_blank"><i class="fab fa-linkedin"></i></a>
 						</div>
 					</div>
