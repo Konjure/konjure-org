@@ -63,21 +63,31 @@
 			</div>
 		</div>
 		
-		<div class="section use-cases features" id="header-trigger">
-			<div class="cover text-center">
-				<h2 class="headline" data-sr="enter top, and hustle 20px">Beyond a Website Builder</h2>
+		<div class="section graphic-section peer-to-peer" id="header-trigger">
+			<div class="cover">
 				<div class="grid no-padding">
-					<div class="cell">
-						<i class="fa fa-lock" data-sr="enter top, and hustle 20px"></i>
-						<h2 data-sr="enter top, and hustle 20px">Full Ownership</h2>
-						<br>
-						<h3 data-sr="enter top, and hustle 20px">As we move towards a decentralized web, we will ensure that after beta testing periods, Konjure will not have access to user content. Website owners will be in complete control of their privacy, the way it should be.</h3>
+					<div class="cell-4">
+						<div class="vertical-center-outer">
+							<div class="vertical-center-inner">
+								<img src="../../assets/media/images/bubble_2.svg" class="no-select"/>
+							</div>
+						</div>
 					</div>
-					<div class="cell">
-						<i class="fa fa-shield-alt" data-sr="enter top, and hustle 20px"></i>
-						<h2 data-sr="enter top, and hustle 20px">Censorship Resistance</h2>
-						<br>
-						<h3 data-sr="enter top, and hustle 20px">Short of illegal content, there's nothing your Konjure website can't represent. In order to maintain a safe ecosystem, we're implementing a community-run flagging system to warn users of fraudulent websites.</h3>
+					<div class="cell-12 text-right">
+						<div class="vertical-center-outer">
+							<div class="vertical-center-inner">
+								<h2 data-sr="enter right, and hustle 20px">Full ownership</h2>
+								<br><br>
+								<h3 data-sr="enter right, and hustle 20px">Our focus on a permissionless, censorship-resistant product aims to utilize two of the most important qualities of decentralization and blockchain technology. The Konjure organization will have no impact or authority to censor any content created by users on the platform.</h3>
+								<br><br>
+								<a href="/get-started/roadmap">
+									<div class="kbutton" hover="brighten" data-sr="enter right, and hustle 20px">
+										<div class="kbutton-left">View our Roadmap</div>
+										<div class="kbutton-right"><i class="fa fa-chevron-right"></i></div>
+									</div>
+								</a>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
@@ -140,19 +150,6 @@
 						</div>
 					</div>
 				</div>
-			</div>
-		</div>
-		
-		<div class="section gradient to-overview">
-			<div class="cover text-center">
-				<h1>Development Overview</h1>
-				<br>
-				<a href="/development/overview">
-					<div class="kbutton" hover="brighten" data-sr="enter top, and hustle 20px">
-						<div class="kbutton-left">Continue</div>
-						<div class="kbutton-right"><i class="fa fa-chevron-right"></i></div>
-					</div>
-				</a>
 			</div>
 		</div>
 		

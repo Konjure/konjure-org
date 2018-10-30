@@ -100,7 +100,7 @@
 							<h3 class="no-select">What sets you apart from other website builders?</h3>
 							<div class="expander-content">
 								<br>
-								<p>By taking advantage of the various new Decentralized Web projects being funded, we will deploy websites directly onto our IPFS network in just a few clicks. Compared to centralized hosting, websites will be cheaper, faster, censorship-resistant, and more secure. Striving to be a truly decentralized project in the future, not even Konjure will have the ability to modify your website. Instead, we will have community-based systems in place such as flagging websites.</p>
+								<p>By taking advantage of the various new Decentralized Web projects being funded, we will deploy websites directly onto our IPFS network in just a few clicks. Compared to centralized hosting, websites will be cheaper, faster, censorship-resistant, and more secure. Striving to be a truly decentralized project in the future, not even Konjure will have the ability to modify your website.</p>
 								<br>
 								<p>The second primary innovation we're making is our website generation technology. We're throwing out themes and templates, and replacing them with procedurally generated designs based on your input. This way, you will have a completely unique website to start from that has never been seen before.</p>
 							</div>

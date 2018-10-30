@@ -13,6 +13,7 @@
 							<p><a href="/get-started/what-is-konjure">What is Konjure?</a></p>
 							<p><a href="/get-started/token">KONJ Token Sale</a></p>
 							<p><a href="/get-started/roadmap">Roadmap</a></p>
+							<p><a href="/get-started/prototype">Prototype</a></p>
 						</div>
 						<div class="cell-3 text-right">
 							<h5>Company</h5>

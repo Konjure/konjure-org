@@ -36,6 +36,7 @@
 			<a href="/get-started/what-is-konjure">What is Konjure?</a>
 			<a href="/get-started/token">KONJ Token Sale</a>
 			<a href="/get-started/roadmap">Roadmap</a>
+			<a href="/get-started/prototype">Prototype</a>
 			<h5>Company</h5>
 			<a href="/company/meet-the-team">Meet the Team</a>
 			<a href="/company/get-in-touch">Get in Touch</a>

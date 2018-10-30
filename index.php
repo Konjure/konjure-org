@@ -6,7 +6,7 @@
 
 	<head>
 	
-		<title>Konjure - A Portal to the Decentralized Web</title>
+		<title>Konjure - The Website Builder of the Blockchain</title>
 		
 		<meta charset="UTF-8">
 		
@@ -157,176 +157,36 @@
 			</div>
 		</div>
 		
-		<div class="section development gradient">
+		<div class="section prototype-lm">
 			<div class="cover">
-				<h1 class="text-center" data-sr="enter top, and hustle 20px">See what we have brewing...</h1>
-				<br>
-				<h2 class="text-center headline" data-sr="enter top, and hustle 20px">Introducing <strong>Konjure UI</strong>, our open source web design framework</h2>
 				<div class="grid no-padding">
-					<div class="cell-13">
-						<div class="code">
-							<div class="code-left">
-								<div class="code-content code-grid shown">
-									<div class="code-direction">
-										<div class="code-numbers">1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>10<br>11</div>
-										<code>
-											&lt;div class="<span class="highlight">grid gridlines</span>"&gt;
-											<br><div class="code-indent">
-												&lt;div class="<span class="highlight">row</span>"&gt;
-												<br><div class="code-indent">
-													&lt;div class="<span class="highlight">cell-5</span>"&gt;&lt;/div&gt;
-													<br>
-													&lt;div class="<span class="highlight">cell-6</span>"&gt;&lt;/div&gt;
-													<br>
-													&lt;div class="<span class="highlight">cell-5</span>"&gt;&lt;/div&gt;
-													<br></div>
-												&lt;/div&gt;
-												<br>
-												&lt;div class="<span class="highlight">row</span>"&gt;
-												<br><div class="code-indent">
-													&lt;div class="<span class="highlight">cell</span>"&gt;&lt;/div&gt;
-													<br>
-													&lt;div class="<span class="highlight">cell</span>"&gt;&lt;/div&gt;
-													<br></div>
-												&lt;/div&gt;
-												<br></div>
-											&lt;/div&gt;
-										</code>
+					<div class="cell">
+						<div class="vertical-center-outer">
+							<div class="vertical-center-inner">
+								<h2 data-sr="enter left, and hustle 20px"><strong>Decentralize</strong> your website</h2>
+								<h3 data-sr="enter left, and hustle 20px">Test drive our prototype desktop application</h3>
+								<br><br>
+								<a href="#">
+									<div class="kbutton" hover="brighten" data-sr="enter left, and hustle 20px">
+										<div class="kbutton-left">Download for Windows</div>
+										<div class="kbutton-right"><i class="fa fa-chevron-right"></i></div>
 									</div>
-								</div>
-								<div class="code-content code-buttons">
-									<div class="code-direction">
-										<div class="code-numbers">1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>10<br>11<br>12<br>13<br>14</div>
-										<code>
-											&lt;div class="<span class="highlight">grid gridlines</span>"&gt;
-											<br><div class="code-indent">
-												&lt;div class="<span class="highlight">cell-5</span>"&gt;
-												<br><div class="code-indent">
-													&lt;br&gt;
-													<br>
-													&lt;div class="<span class="highlight">button center</span>"&gt;Button&lt;/div&gt;
-													<br></div>
-												&lt;/div&gt; 
-												<br>
-												&lt;div class="<span class="highlight">cell-6</span>"&gt;
-												<br><div class="code-indent">
-													&lt;br&gt;
-													<br>
-													&lt;div class="<span class="highlight">button center material</span>"&gt;Click me!&lt;/div&gt;
-													<br></div>
-												&lt;/div&gt; 
-												<br>
-												&lt;div class="<span class="highlight">cell-5</span>"&gt;
-												<br><div class="code-indent">
-													&lt;br&gt;
-													<br>
-													&lt;div class="<span class="highlight">button center disabled</span>"&gt;Disabled&lt;/div&gt;
-													<br></div>
-												&lt;/div&gt; 
-												<br></div>
-											&lt;/div&gt;
-										</code>
-									</div>
-								</div>
-								<div class="code-content code-attributes">
-									<div class="code-direction">
-										<div class="code-numbers">1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>10<br>11<br>12</div>
-										<code>
-											&lt;div class="<span class="highlight">grid gridlines</span>"&gt;
-											<br><div class="code-indent">
-												&lt;div class="<span class="highlight">cell</span>"&gt;
-												<br><div class="code-indent">
-													&lt;br&gt;
-													<br>
-													&lt;div class="<span class="highlight">button center rounded</span>" hover="<span class="highlight">grow</span>" transition="<span class="highlight">0.5</span>"&gt;Hover over me!&lt;/div&gt;
-													<br>
-													&lt;div class="<span class="highlight">button center rounded</span>" hover="<span class="highlight">shrink</span>" transition="<span class="highlight">0.5</span>"&gt;Hover over me!&lt;/div&gt;
-													<br></div>
-												&lt;/div&gt; 
-												<br>
-												&lt;div class="<span class="highlight">cell</span>"&gt;
-												<br><div class="code-indent">
-													&lt;br&gt;
-													<br>
-													&lt;div class="<span class="highlight">button center slight-rounded</span>" hover="<span class="highlight">brighten</span>" transition="<span class="highlight">0.5</span>"&gt;Hover over me!&lt;/div&gt;
-													<br>
-													&lt;div class="<span class="highlight">button center slight-rounded</span>" hover="<span class="highlight">darken</span>" transition="<span class="highlight">0.5</span>"&gt;Hover over me!&lt;/div&gt;
-													<br></div>
-												&lt;/div&gt; 
-												<br></div>
-											&lt;/div&gt;
-										</code>
-									</div>
-								</div>
-							</div>
-							<div class="code-right no-select">
-								<div class="code-arrow">
-									<div class="vertical-center-outer">
-										<div class="vertical-center-inner">
-											<i class="fa fa-angle-right"></i>
-										</div>
-									</div>
-								</div>
-								<div class="code-content code-grid shown">
-									<div class="grid gridlines">
-										<div class="row"> 
-											<div class="cell-5"></div> 
-											<div class="cell-6"></div> 
-											<div class="cell-5"></div> 
-										</div> 
-										<div class="row">
-											<div class="cell"></div> 
-											<div class="cell"></div> 
-										</div>
-									</div>
-								</div>
-								<div class="code-content code-buttons">
-									<div class="grid gridlines">
-										<div class="cell-5">
-											<br>
-											<div class="button center">Button</div>
-										</div> 
-										<div class="cell-6">
-											<br>
-											<div class="button center material">Click me!</div>
-										</div> 
-										<div class="cell-5">
-											<br>
-											<div class="button center disabled">Disabled</div>
-										</div> 
-									</div>
-								</div>
-								<div class="code-content code-attributes">
-									<div class="grid gridlines">
-										<div class="cell">
-											<br>
-											<div class="button center rounded" hover="grow" transition="0.5">Hover over me!</div>
-											<div class="button center rounded" hover="shrink" transition="0.5">Hover over me!</div>
-										</div>
-										<div class="cell">
-											<br>
-											<div class="button center slight-rounded" hover="brighten" transition="0.5">Hover over me!</div>
-											<div class="button center slight-rounded" hover="darken" transition="0.5">Hover over me!</div>
-										</div>
-									</div>
-								</div>
+								</a>
+								<br><br>
+								<h3 data-sr="enter left, and hustle 20px"><a href="/get-started/prototype">Learn more <i class="fa fa-angle-right"></i></a></h3>
 							</div>
 						</div>
 					</div>
-					<div class="cell-3">
-						<div class="code-switch no-select active" id="cs-grid" data-sr="enter right, and hustle 20px"><i class="fa fa-th"></i> Grid</div>
-						<div class="code-switch no-select" id="cs-buttons" data-sr="enter right, and hustle 20px"><i class="fa fa-hand-pointer"></i> Buttons</div>
-						<div class="code-switch no-select" id="cs-attributes" data-sr="enter right, and hustle 20px"><i class="fa fa-cog"></i> Attributes</div>
-						<div class="divider"></div>
-						<a href="/development/overview"><div class="code-switch" data-sr="enter right, and hustle 20px">Discover more <i class="fa fa-angle-right"></i></div></a>
+					<div class="cell">
+						<div class="vertical-center-outer">
+							<div class="vertical-center-inner">
+								<img src="../../assets/media/images/prototype.png" class="prototype-preview no-select"/>
+								<img src="../../assets/media/images/ghost.svg" class="prototype-ghost no-select"/>
+								<img src="../../assets/media/images/smoke_1.svg" class="prototype-smoke no-select"/>
+							</div>
+						</div>
 					</div>
 				</div>
-				<a href="/development/overview" class="hidden-overview-button">
-					<div class="kbutton" hover="brighten" data-sr="enter top, and hustle 20px">
-						<div class="kbutton-left">Overview</div>
-						<div class="kbutton-right"><i class="fa fa-chevron-right"></i></div>
-					</div>
-				</a>
 			</div>
 		</div>
 		
@@ -342,7 +202,7 @@
 						</div>
 					</div>
 				</div>
-				<h2 class="text-center headline" data-sr="enter top, and hustle 20px">Solutions</h2>
+				<h2 class="text-center headline" data-sr="enter top, and hustle 20px">Here's how we're changing the world:</h2>
 				<div class="grid no-padding">
 					<div class="row">
 						<div class="cell-8">
