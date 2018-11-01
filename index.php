@@ -166,7 +166,7 @@
 								<h2 data-sr="enter left, and hustle 20px"><strong>Decentralize</strong> your website</h2>
 								<h3 data-sr="enter left, and hustle 20px">Test drive our prototype desktop application</h3>
 								<br><br>
-								<a href="#">
+								<a href="https://dist.konjure.org/Konjure+Desktop+App+Setup+1.0.0.exe">
 									<div class="kbutton" hover="brighten" data-sr="enter left, and hustle 20px">
 										<div class="kbutton-left">Download for Windows</div>
 										<div class="kbutton-right"><i class="fa fa-chevron-right"></i></div>
