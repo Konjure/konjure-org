@@ -182,7 +182,7 @@
 							<img src="../../assets/media/images/ghost.png" class="ghostpop no-select"/>
 							<h4>Andrew Bull</h4>
 							<h5>Founder of Bull Blockchain Law,<br>Legal Advisor</h5>
-							<a href="https://linkedin.com/in/andrew-bull-752bb632/" target="_blank"><i class="fab fa-linkedin"></i></a>
+							<a href="https://linkedin.com/in/andrew-bull-752bb632" target="_blank"><i class="fab fa-linkedin"></i></a>
 							<a href="https://twitter.com/andrewbull1988" target="_blank"><i class="fab fa-twitter-square"></i></a>
 						</div>
 						<div class="cell" data-sr="enter top, and hustle 20px">
@@ -190,7 +190,7 @@
 							<img src="../../assets/media/images/ghost.png" class="ghostpop no-select"/>
 							<h4>Alberto Molina <div class="no-select">Dev</div></h4>
 							<h5>Founder of shelterDAO,<br>Growth Advisor</h5>
-							<a href="https://www.linkedin.com/in/alberto-molina-thinklifestyle/" target="_blank"><i class="fab fa-linkedin"></i></a>
+							<a href="https://www.linkedin.com/in/alberto-molina-thinklifestyle" target="_blank"><i class="fab fa-linkedin"></i></a>
 							<a href="https://twitter.com/shelterdao" target="_blank"><i class="fab fa-twitter-square"></i></a>
 						</div>
 						<div class="cell" data-sr="enter top, and hustle 20px">
@@ -198,7 +198,8 @@
 							<img src="../../assets/media/images/ghost.png" class="ghostpop no-select"/>
 							<h4>Danny G. Allen</h4>
 							<h5>Public Speaker,<br>Business Advisor</h5>
-							<a href="https://www.linkedin.com/in/danny-allen-93333677/" target="_blank"><i class="fab fa-linkedin"></i></a>
+							<a href="https://www.linkedin.com/in/dannygallen" target="_blank"><i class="fab fa-linkedin"></i></a>
+							<a href="https://twitter.com/dannymapleleaf" target="_blank"><i class="fab fa-twitter-square"></i></a>
 						</div>
 					</div>
 				</div>
