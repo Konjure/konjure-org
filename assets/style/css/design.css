@@ -964,6 +964,11 @@ h6 {
 	margin-bottom: 100px;
 }
 
+.section.features h3 span {
+	background-color: #94BF54;
+	color: #FFF;
+}
+
 #features-backpic {
 	width: 100%;
 	max-height: 1200px;
