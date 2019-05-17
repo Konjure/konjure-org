@@ -3,7 +3,6 @@
 <url><loc>https://konjure.org/</loc><priority>1.00</priority></url>
 <url><loc>https://konjure.org/get-started/what-is-konjure</loc><priority>0.85</priority></url>
 <url><loc>https://konjure.org/get-started/token</loc><priority>0.85</priority></url>
-<url><loc>https://konjure.org/get-started/roadmap</loc><priority>0.85</priority></url>
 <url><loc>https://konjure.org/company/meet-the-team</loc><priority>0.85</priority></url>
 <url><loc>https://konjure.org/company/get-in-touch</loc><priority>0.85</priority></url>
 <url><loc>https://konjure.org/company/faqs</loc><priority>0.85</priority></url>
@@ -22,4 +21,3 @@
 <url><loc>http://konjure.org/company/legal/privacy-policy/</loc><priority>0.69</priority></url>
 <url><loc>http://konjure.org/company/legal/terms-of-use/</loc><priority>0.69</priority></url>
 </urlset>
- 

@@ -5,36 +5,36 @@
 <html>
 
 	<head>
-	
+
 		<title>Get in Touch - Konjure</title>
-		
+
 		<meta charset="UTF-8">
-		
+
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		
+
 		<meta name="description" content="Get in contact with the Konjure team for press inquiries, investment opportunities, or partnership information."/>
 		<meta name="keywords" content="konjure, website builder, get in touch, contact, team, press, partnerships, legal, careers, presskit, office"/>
-		
+
 		<meta name="twitter:card" content="summary_large_image"/>
 		<meta name="twitter:site" content="@KonjureOrg"/>
 		<meta name="twitter:title" content="Konjure - The Website Builder of the Blockchain"/>
 		<meta name="twitter:description" content="Konjure streamlines the process from site creation to hosting on a decentralized, peer-to-peer network. By utilizing blockchain technology, we're providing a gateway for mass adoption of the Decentralized Web."/>
 		<meta name="twitter:image" content="../../assets/media/images/tw.jpg"/>
-		
+
 		<meta property="og:title" content="Konjure - The Website Builder of the Blockchain"/>
 		<meta property="og:description" content="Konjure streamlines the process from site creation to hosting on a decentralized, peer-to-peer network. By utilizing blockchain technology, we're providing a gateway for mass adoption of the Decentralized Web."/>
 		<meta property="og:url" content="https://konjure.org"/>
 		<meta property="og:image" content="../../assets/media/images/fb.jpg"/>
-		
+
 		<style>[data-sr] { visibility: hidden; }</style>
-		
+
 		<link rel="stylesheet" href="../../assets/style/css/font-awesome.min.css" type="text/css"/>
 		<link rel="stylesheet" href="../../assets/style/css/konjure.min.css" type="text/css"/>
 		<link rel="stylesheet" href="../../assets/style/css/design.css" type="text/css"/>
 		<link rel="stylesheet" href="../../assets/style/css/flags.css" type="text/css"/>
-		
+
 		<link rel="icon" href="../../assets/media/images/favicon.png" type="image/png"/>
-		
+
 		<script src="../../assets/scripts/js/jquery.js" type="text/javascript"></script>
 		<script src="../../assets/scripts/js/konjure.min.js" type="text/javascript"></script>
 		<script src="../../assets/scripts/js/global.js" type="text/javascript"></script>
@@ -45,36 +45,36 @@
 			gtag('js', new Date());
 			gtag('config', 'UA-121806430-1');
 		</script>
-		
+
 	</head>
-	
+
 	<body>
-	
+
 		<?php
-		
+
 			include_once "../../header.php";
-			
+
 		?>
-		
+
 		<div class="section get-in-touch">
 			<div class="cover">
 				<h1 data-sr="enter left, and hustle 20px">Get in Touch</h1>
 				<h3 data-sr="enter left, and hustle 20px">We're committed to keeping an open conversation with our community</h3>
 			</div>
 		</div>
-		
+
 		<div class="section contact features" id="header-trigger">
 			<div class="cover">
 				<h2 class="headline text-center" data-sr="enter top, and hustle 20px">Contact our Team</h2>
 				<div class="grid no-padding">
 					<div class="row">
 						<div class="cell">
-							<h2 data-sr="enter left, and hustle 20px">Press</h2>
+							<h2 data-sr="enter left, and hustle 20px">Development</h2>
 							<br>
-							<h3 data-sr="enter left, and hustle 20px">For any interviews or general press inquiries, please reach out to Jacob, our Community Manager.</h3>
+							<h3 data-sr="enter left, and hustle 20px">Contact Kai, our Founder and Executive Director, for questions about the technical development of Konjure.</h3>
 							<br>
 							<h3 data-sr="enter left, and hustle 20px">
-								<a href="mailto:jacob@konjure.org">jacob@konjure.org</a>
+								<a href="mailto:kai@konjure.org">kai@konjure.org</a>
 							</h3>
 						</div>
 						<div class="cell text-right">
@@ -87,31 +87,11 @@
 							</h3>
 						</div>
 					</div>
-					<div class="row">
-						<div class="cell">
-							<h2 data-sr="enter left, and hustle 20px">Careers</h2>
-							<br>
-							<h3 data-sr="enter left, and hustle 20px">We're collecting résumés for 2019. Send in yours if you feel you could add value to our project.</h3>
-							<br>
-							<h3 data-sr="enter left, and hustle 20px">
-								<a href="mailto:careers@konjure.org">careers@konjure.org</a>
-							</h3>
-						</div>
-						<div class="cell text-right">
-							<h2 data-sr="enter right, and hustle 20px">Legal</h2>
-							<br>
-							<h3 data-sr="enter right, and hustle 20px">Get in contact with our legal department with any questions or complaints regarding Konjure.</h3>
-							<br>
-							<h3 data-sr="enter right, and hustle 20px">
-								<a href="mailto:legal@konjure.org">legal@konjure.org</a>
-							</h3>
-						</div>
-					</div>
 				</div>
 			</div>
 			<img src="../../assets/media/images/graphic-roadmap.svg" id="features-backpic"/>
 		</div>
-		
+
 		<div class="section social-big gradient">
 			<div class="cover">
 				<h2 class="headline text-center" data-sr="enter top, and hustle 20px">Connect with us</h1>
@@ -149,7 +129,7 @@
 				</div>
 			</div>
 		</div>
-		
+
 		<div class="section presskit dark">
 			<div class="cover text-center">
 				<h2 class="headline" data-sr="enter top, and hustle 20px">Artwork</h1>
@@ -173,7 +153,7 @@
 				</div>
 			</div>
 		</div>
-		
+
 		<div class="section address features">
 			<div class="cover">
 				<h2 class="headline text-center" data-sr="enter top, and hustle 20px">Send us Mail</h1>
@@ -204,13 +184,13 @@
 				</div>
 			</div>
 		</div>
-		
+
 		<?php
-		
+
 			include_once "../../footer.php";
-			
+
 		?>
-	
+
 	</body>
-	
+
 </html>

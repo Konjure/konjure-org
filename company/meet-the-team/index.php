@@ -5,36 +5,36 @@
 <html>
 
 	<head>
-	
+
 		<title>Meet the Team - Konjure</title>
-		
+
 		<meta charset="UTF-8">
-		
+
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		
+
 		<meta name="description" content="Meet the passionate team behind Konjure project making it all possible."/>
 		<meta name="keywords" content="konjure, website builder, team, meet the team, director, founder, developer, contact, blockchain, startup"/>
-		
+
 		<meta name="twitter:card" content="summary_large_image"/>
 		<meta name="twitter:site" content="@KonjureOrg"/>
 		<meta name="twitter:title" content="Konjure - The Website Builder of the Blockchain"/>
 		<meta name="twitter:description" content="Konjure streamlines the process from site creation to hosting on a decentralized, peer-to-peer network. By utilizing blockchain technology, we're providing a gateway for mass adoption of the Decentralized Web."/>
 		<meta name="twitter:image" content="../../assets/media/images/tw.jpg"/>
-		
+
 		<meta property="og:title" content="Konjure - The Website Builder of the Blockchain"/>
 		<meta property="og:description" content="Konjure streamlines the process from site creation to hosting on a decentralized, peer-to-peer network. By utilizing blockchain technology, we're providing a gateway for mass adoption of the Decentralized Web."/>
 		<meta property="og:url" content="https://konjure.org"/>
 		<meta property="og:image" content="../../assets/media/images/fb.jpg"/>
-		
+
 		<style>[data-sr] { visibility: hidden; }</style>
-		
+
 		<link rel="stylesheet" href="../../assets/style/css/font-awesome.min.css" type="text/css"/>
 		<link rel="stylesheet" href="../../assets/style/css/konjure.min.css" type="text/css"/>
 		<link rel="stylesheet" href="../../assets/style/css/design.css" type="text/css"/>
 		<link rel="stylesheet" href="../../assets/style/css/flags.css" type="text/css"/>
-		
+
 		<link rel="icon" href="../../assets/media/images/favicon.png" type="image/png"/>
-		
+
 		<script src="../../assets/scripts/js/jquery.js" type="text/javascript"></script>
 		<script src="../../assets/scripts/js/konjure.min.js" type="text/javascript"></script>
 		<script src="../../assets/scripts/js/global.js" type="text/javascript"></script>
@@ -45,24 +45,24 @@
 			gtag('js', new Date());
 			gtag('config', 'UA-121806430-1');
 		</script>
-		
+
 	</head>
-	
+
 	<body>
-	
+
 		<?php
-		
+
 			include_once "../../header.php";
-			
+
 		?>
-		
+
 		<div class="section mtt">
 			<div class="cover">
 				<h1 data-sr="enter left, and hustle 20px">Meet the Team</h1>
 				<h3 data-sr="enter left, and hustle 20px">The passionate group of people making Konjure possible</h3>
 			</div>
 		</div>
-		
+
 		<div class="section team features" id="header-trigger">
 			<div class="cover text-center">
 				<h2 class="headline" data-sr="enter top, and hustle 20px">Directors</h2>
@@ -141,26 +141,26 @@
 				<div class="grid no-padding">
 					<div class="row">
 						<div class="cell">
-						
+
 						</div>
 						<div class="cell" data-sr="enter top, and hustle 20px">
 							<img src="../../assets/media/images/justin.png" class="member no-select center"/>
 							<img src="../../assets/media/images/ghost.png" class="ghostpop no-select"/>
 							<h4>Justin Roberts</h4>
-							<h5>Public Relations Specialist</h5>
+							<h5>Public Relations</h5>
 							<a href="https://linkedin.com/in/justin-r-815351165" target="_blank"><i class="fab fa-linkedin"></i></a>
 							<a href="https://twitter.com/talk_konjure" target="_blank"><i class="fab fa-twitter-square"></i></a>
 						</div>
 						<div class="cell" data-sr="enter top, and hustle 20px">
-							<img src="../../assets/media/images/jacob.png" class="member no-select center"/>
+							<img src="../../assets/media/images/danny.png" class="member no-select center"/>
 							<img src="../../assets/media/images/ghost.png" class="ghostpop no-select"/>
-							<h4>Jacob W Beebe</h4>
-							<h5>Community Manager</h5>
-							<a href="https://linkedin.com/in/jacobwbeebe" target="_blank"><i class="fab fa-linkedin"></i></a>
-							<a href="https://twitter.com/jacobwbeebe" target="_blank"><i class="fab fa-twitter-square"></i></a>
+							<h4>Danny G. Allen</h4>
+							<h5>Investor Relations</h5>
+							<a href="https://www.linkedin.com/in/dannygallen" target="_blank"><i class="fab fa-linkedin"></i></a>
+							<a href="https://twitter.com/dannymapleleaf" target="_blank"><i class="fab fa-twitter-square"></i></a>
 						</div>
 						<div class="cell">
-						
+
 						</div>
 					</div>
 				</div>
@@ -168,15 +168,6 @@
 				<h2 class="headline" data-sr="enter top, and hustle 20px">Advisory Board</h2>
 				<div class="grid no-padding">
 					<div class="row">
-						<div class="cell" data-sr="enter top, and hustle 20px">
-							<img src="../../assets/media/images/naviin.png" class="member no-select center"/>
-							<img src="../../assets/media/images/ghost.png" class="ghostpop no-select"/>
-							<h4>Naviin Kapoor <div class="no-select">Dev</div></h4>
-							<h5>Founder of The Times of Crypto,<br>ICO Advisor</h5>
-							<a href="https://linkedin.com/in/naviinkapoor" target="_blank"><i class="fab fa-linkedin"></i></a>
-							<a href="https://twitter.com/naviinkapoor" target="_blank"><i class="fab fa-twitter-square"></i></a>
-							<a href="https://icobench.com/u/naviinkapoor" target="_blank"><i class="fa fa-check-square"></i></a>
-						</div>
 						<div class="cell" data-sr="enter top, and hustle 20px">
 							<img src="../../assets/media/images/andrew.png" class="member no-select center"/>
 							<img src="../../assets/media/images/ghost.png" class="ghostpop no-select"/>
@@ -193,19 +184,11 @@
 							<a href="https://www.linkedin.com/in/alberto-molina-thinklifestyle" target="_blank"><i class="fab fa-linkedin"></i></a>
 							<a href="https://twitter.com/shelterdao" target="_blank"><i class="fab fa-twitter-square"></i></a>
 						</div>
-						<div class="cell" data-sr="enter top, and hustle 20px">
-							<img src="../../assets/media/images/danny.png" class="member no-select center"/>
-							<img src="../../assets/media/images/ghost.png" class="ghostpop no-select"/>
-							<h4>Danny G. Allen</h4>
-							<h5>Public Speaker,<br>Business Advisor</h5>
-							<a href="https://www.linkedin.com/in/dannygallen" target="_blank"><i class="fab fa-linkedin"></i></a>
-							<a href="https://twitter.com/dannymapleleaf" target="_blank"><i class="fab fa-twitter-square"></i></a>
-						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-		
+
 		<!--
 		<div class="section partners gradient">
 			<div class="cover text-center">
@@ -215,7 +198,7 @@
 			</div>
 		</div>
 		-->
-		
+
 		<div class="section team-extra features">
 			<div class="cover">
 				<div class="grid no-padding">
@@ -237,7 +220,7 @@
 						<div class="cell">
 							<h2 data-sr="enter top, and hustle 20px">Careers</h2>
 							<br>
-							<h3 data-sr="enter top, and hustle 20px">Although we're not hiring just yet, you're welcome to submit your résumé and tell us a bit about why you're interested in Konjure. We'll be collecting applications throughout 2018.</h3>
+							<h3 data-sr="enter top, and hustle 20px">Although we're not hiring just yet, you're welcome to submit your résumé and tell us a bit about why you're interested in Konjure. We'll be collecting applications throughout 2019.</h3>
 							<br>
 							<h3 data-sr="enter top, and hustle 20px"><a href="mailto:careers@konjure.org">Email us <i class="fa fa-angle-right"></i></a></h3>
 						</div>
@@ -246,13 +229,13 @@
 			</div>
 			<img src="../../assets/media/images/graphic-market.svg" id="features-backpic"/>
 		</div>
-		
+
 		<?php
-		
+
 			include_once "../../footer.php";
-			
+
 		?>
-	
+
 	</body>
-	
+
 </html>

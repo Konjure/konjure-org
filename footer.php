@@ -12,7 +12,6 @@
 							<br>
 							<p><a href="/get-started/what-is-konjure">What is Konjure?</a></p>
 							<p><a href="/get-started/token">KONJ Token Sale</a></p>
-							<p><a href="/get-started/roadmap">Roadmap</a></p>
 							<p><a href="/get-started/prototype">Prototype</a></p>
 						</div>
 						<div class="cell-3 text-right">
@@ -66,6 +65,6 @@
 				<img src="/assets/media/images/dark-ghost.svg" class="no-select" id="footer-ghost" alt="Konjure Ghost"/>
 			</div>
 		</div>
-		
+
 		<script src="/assets/scripts/js/scrollReveal.min.js" type="text/javascript"></script>
 		<script type="text/javascript">window.sr = new scrollReveal();</script>

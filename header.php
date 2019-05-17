@@ -1,5 +1,5 @@
 		<div class="dim"></div>
-	
+
 		<div class="header">
 			<div class="logo">
 				<a href="https://konjure.org">
@@ -7,7 +7,7 @@
 				</a>
 			</div>
 		</div>
-		
+
 		<div class="header-content">
 			<div class="links">
 				<div class="vertical-center-outer">
@@ -29,13 +29,12 @@
 				</div>
 			</div>
 		</div>
-		
+
 		<div class="vertical-nav">
 			<div class="vertical-nav-spacer"></div>
 			<h5>Get Started</h5>
 			<a href="/get-started/what-is-konjure">What is Konjure?</a>
 			<a href="/get-started/token">KONJ Token Sale</a>
-			<a href="/get-started/roadmap">Roadmap</a>
 			<a href="/get-started/prototype">Prototype</a>
 			<h5>Company</h5>
 			<a href="/company/meet-the-team">Meet the Team</a>
