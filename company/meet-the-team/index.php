@@ -168,6 +168,9 @@
 				<h2 class="headline" data-sr="enter top, and hustle 20px">Advisory Board</h2>
 				<div class="grid no-padding">
 					<div class="row">
+						<div class="cell">
+
+						</div>
 						<div class="cell" data-sr="enter top, and hustle 20px">
 							<img src="../../assets/media/images/andrew.png" class="member no-select center"/>
 							<img src="../../assets/media/images/ghost.png" class="ghostpop no-select"/>
@@ -183,6 +186,9 @@
 							<h5>Founder of shelterDAO,<br>Growth Advisor</h5>
 							<a href="https://www.linkedin.com/in/alberto-molina-thinklifestyle" target="_blank"><i class="fab fa-linkedin"></i></a>
 							<a href="https://twitter.com/shelterdao" target="_blank"><i class="fab fa-twitter-square"></i></a>
+						</div>
+						<div class="cell">
+
 						</div>
 					</div>
 				</div>
