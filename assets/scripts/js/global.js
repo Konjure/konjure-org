@@ -1,4 +1,4 @@
-/* 
+/*
 
 	* Copyright Konjure 2018
 
@@ -7,9 +7,9 @@
 $(document).ready(function() {
 
 	// Vertical nav
-	
+
 	window.navIsOpen = false;
-	
+
 	$(".menu-button").click(function() {
 		if(window.navIsOpen === false) {
 			$(".dim").fadeIn("fast");
@@ -28,7 +28,7 @@ $(document).ready(function() {
 			window.navIsOpen = false;
 		}
 	});
-	
+
 	$(".dim").click(function() {
 		if(window.navIsOpen === true) {
 			$(".vertical-nav").removeClass("sticky");
@@ -39,7 +39,7 @@ $(document).ready(function() {
 			window.navIsOpen = false;
 		}
 	});
-	
+
 	$(document).keyup(function(e) {
 		if (e.keyCode == 27) {
 			if(window.navIsOpen === true) {
@@ -58,16 +58,16 @@ $(document).ready(function() {
 	});
 
 	// Sticky header
-	
+
 	var header = $(".header-outer"),
 	    didScroll = false;
-	 
+
 	$(window).scroll(function() {
 	    didScroll = true;
 	});
-	
+
 	window.headerIsSticky = false;
-	 
+
 	setInterval(function() {
 		if(didScroll) {
 			didScroll = false;
@@ -92,7 +92,7 @@ $(document).ready(function() {
 			}
 		}
 	}, 2);
-	
+
 	if($(this).scrollTop() > $("#header-trigger").offset().top) {
 		$(".header").addClass("sticky");
 		$(".header-content").addClass("sticky");
@@ -102,11 +102,11 @@ $(document).ready(function() {
 		$(".header").removeClass("sticky");
 		window.headerIsSticky = false;
 	}
-	
+
 	// Lang
-	
+
 	window.langIsOpen = false;
-	
+
 	$(document).mouseup(function(e) {
 		var container = $(".languages");
 		if($(".lang").is(e.target)) {
@@ -122,33 +122,31 @@ $(document).ready(function() {
 			window.langIsOpen = false;
 		}
 	});
-	
+
 	// Whitepaper coming soon
-	
+
 	$("#whitepaper").hover(function() {
 		$(".links a div").toggleClass("paper-shown");
 	});
-	
+
 	// Active page
-	
+
 	if (window.location.href.indexOf("what-is-konjure") > -1) {
 		$(".vertical-nav a:nth-of-type(1)").addClass("active");
 	} else if (window.location.href.indexOf("token") > -1) {
 		$(".vertical-nav a:nth-of-type(2)").addClass("active");
-	} else if (window.location.href.indexOf("roadmap") > -1) {
-		$(".vertical-nav a:nth-of-type(3)").addClass("active");
 	} else if (window.location.href.indexOf("prototype") > -1) {
-		$(".vertical-nav a:nth-of-type(4)").addClass("active");
+		$(".vertical-nav a:nth-of-type(3)").addClass("active");
 	} else if (window.location.href.indexOf("meet-the-team") > -1) {
-		$(".vertical-nav a:nth-of-type(5)").addClass("active");
+		$(".vertical-nav a:nth-of-type(4)").addClass("active");
 	} else if (window.location.href.indexOf("get-in-touch") > -1) {
-		$(".vertical-nav a:nth-of-type(6)").addClass("active");
+		$(".vertical-nav a:nth-of-type(5)").addClass("active");
 	} else if (window.location.href.indexOf("faqs") > -1) {
-		$(".vertical-nav a:nth-of-type(7)").addClass("active");
+		$(".vertical-nav a:nth-of-type(6)").addClass("active");
 	} else if (window.location.href.indexOf("overview") > -1) {
-		$(".vertical-nav a:nth-of-type(9)").addClass("active");
+		$(".vertical-nav a:nth-of-type(8)").addClass("active");
 	} else if (window.location.href.indexOf("decentralization") > -1) {
-		$(".vertical-nav a:nth-of-type(10)").addClass("active");
+		$(".vertical-nav a:nth-of-type(9)").addClass("active");
 	}
-	
+
 });
